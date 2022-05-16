@@ -1,0 +1,9 @@
+142: subtitulo DEFINICIÓN FORMA DEL AUTÓMATA 
+Imagen:
+	La definición formal es: AP=(∑_E,Γ,Q,q_0,#,A,f ) donde:
+∑_E={a,b,}
+Γ={#,a,b}
+Q={p,q,r}
+q_0= p
+Imagen autómata 
+P(estado inicial ) entra y tiene una salida la cual llega a el mismo, luego tiene una segunda salida a Q con las ecuaciones c,#/#, c,b/b y c,a/a, cuando pasa a Q tiene una salida hacia el mismo con las ecuaciones b,b/λ y a,a/λ luego tiene otra salida a R(el estado de aceptación) con la ecuación λ,#/#.

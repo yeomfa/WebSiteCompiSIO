@@ -1,0 +1,32 @@
+144. Titulo C) Representación de la aceptación de ∝=abbbba.<br>
+(p,abbbba,#) configuración Inicial.<br>
+Línea hacia abajo.<br>
+(p,bbbba,#a).<br>
+Línea hacia abajo.<br>
+(p,bbba,#ab).<br>
+Línea hacia la izquierda, y hacia la derecha.<br>
+Hacia la izquierda. <br>
+(q,bba,#a).<br>
+Línea hacia la izquierda se cancela.<br>
+Hacia la derecha.<br>
+(p,bba,#abb).<br>
+Línea hacia la izquierda, y hacia la derecha.<br>
+Hacia la izquierda. <br>
+(p,ba,#abbb).<br>
+Línea hacia la izquierda, y hacia la derecha.<br>
+Hacia la izquierda. <br>
+(p,a,#abbbb).<br>
+Línea hacia abajo.<br>
+(p,λ,#abbbb).<br>
+Línea hacia abajo se cancela.<br>
+Hacia la derecha.<br>
+(q,a,#abb).<br>
+Línea hacia abajo se cancela.<br>
+Hacia la derecha.<br>
+(q,ba,#ab).<br>
+Línea hacia abajo.<br>
+(q,a,#a).<br>
+Línea hacia abajo.<br>
+(q,λ,#).<br>
+Línea hacia abajo. <br>
+(r,λ,#) configuración final.<br>

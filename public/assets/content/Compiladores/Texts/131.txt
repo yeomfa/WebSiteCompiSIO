@@ -1,0 +1,5 @@
+131. Autómata de pila (Ayuda a construir el Parser)<br><br>
+Imagen: contiene un diagrama el cual contiene una cinta de entrada<br>
+La cabeza de lectura señala la cinta luego la cabeza se mueve en dirección de izquierda a derecha
+Hay un mecanismo de control el cual es un indicador de estado en forma de reloj e indica (S0, S1, S2, S3, S4, S5), con una flecha señalando a S4.
+Este indicador de estado está conectado a una pila.<br>

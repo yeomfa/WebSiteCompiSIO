@@ -1,0 +1,4 @@
+174.  Título : Lenguajes Independientes del Contexto. <br><br>
+   •	Para representar los aspectos gramaticales de un lenguaje de programación se utilizan gramáticas independientes del contexto , gramáticas BNF y autómatas de pila no determinista. <br>
+   •	La parte léxica de un lenguaje también puede representarse mediante gramáticas regulares. <br>
+   •	Los lenguajes independientes del contexto (LIC), son un conjunto más grande, que incluye los lenguajes regulares. <br>

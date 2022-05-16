@@ -1,0 +1,14 @@
+152. Aplicando una Función de transición a la MT.<br><br>
+Imagen1:<br>
+δ(q_1,1)=(q_1,0,L).<br>
+δ(q_1,0)=(q_2,1,R).<br>
+δ(q_1,B)=(q_2,1,R).<br>
+δ(q_2,0)=(q_2,0,R).<br>
+δ(q_2,B)=(q_3,B,L).<br>
+Imagen2: Texto.<br>
+Las transiciones son de la forma δ(q_i,x)=(q_j,y,direccion), donde tenemos lo siguiente.<br>
+  - q_i es el estado de la máquina antes de utilizar la transición. La máquina de Turing debe estar en este estado, o no se puede aplicar la transición.<br>
+  - x es el símbolo al que apunta la cabeza lectora-escritora. La máquina de Turing lee este símbolo. x también puede ser un espacio en blanco, representado por B, el cual será leído por la máquina. La cabeza tiene que estar señalando el símbolo x, o no se podría utilizar la transición.<br>
+  - q_j es el estado de la máquina después de aplicarse la transición.<br>
+  - y es el símbolo que sobre-escribe la máquina. El símbolo y también puede ser un espacio en blanco, representado por B, el cual sobre-escribiriá la máquina.<br>
+  - direccion es el L o R. L indica que la maquina moverá la cabeza lectora-escritora hacia la izquierda y R indica que la maquina moverá la cabeza hacia la derecha.<br>

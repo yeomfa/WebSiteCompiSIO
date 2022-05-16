@@ -1,0 +1,10 @@
+139. Título: tabla de transición del AP<br><br>
+Imagen de una tabla.<br><br>
+PosiciónFila0: 0, 0 :F. 0,1: a. 0,2: b. 0,3: c.  0,4 : λ.<br>
+PosiciónFila1: 1,0: p,#. 1,1:p,#a. 1,2: p,#b. 1,3: q,#. 1,4: vacío.<br>
+PosiciónFila2: 2,0: p,a. 2,1:p,aa. 2,2: p,ab. 2,3: q,a. 2,4: vacío.<br>
+PosiciónFila3: 3,0: p,b. 3,1:p,ba. 3,2: p,bb. 3,3: q,b. 3,4: vacío.<br>
+PosiciónFila4: 4,0: p,b. 4,1:p,ba. 4,2: p,bb. 4,3: q,b. 4,4: vacío.<br>
+PosiciónFila5: 5,0: q,# 5,1: vacío. 5,2: vacío. 5,3: vacío. 5,4:r#.<br>
+PosiciónFila6: 6,0: q,a 6,1: q, λ. 6,2: vacío. 6,3: vacío. 6,4:vacío.<br>
+PosiciónFila7: 7,0: q,b 7,1: vacío. 7,2: q, λ. 7,3: vacío. 7,4:vacío.<br>

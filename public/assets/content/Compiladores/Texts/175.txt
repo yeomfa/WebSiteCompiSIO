@@ -1,0 +1,8 @@
+175. Ejemplo. <br><br>
+     S→ aS|Sb|c . <br>
+De acuerdo con la GIC anterior responda V o F.<br>
+  a.  La GIC deriva la palabra ca              ______.<br>
+  b. La GIC deriva la palabra c                ______.<br>
+  c. La GIC deriva la palabra cb               ______.<br>
+  d. La GIC deriva la palabra abababbac        ______.<br>
+  e. La GIC deriva la palabra a                ______.<br>

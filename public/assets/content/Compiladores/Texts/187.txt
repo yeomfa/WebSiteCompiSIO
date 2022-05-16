@@ -1,0 +1,7 @@
+187. Aplicaciones de la GIC. <br><br>
+4) GIC para algunas expresiones algebraicas. <br>
+
+	X -> X + T | T. <br>
+	T -> T * F |F. <br>
+	F -> I | (X). <br>
+Gramática derivada de la expresión (a+b)*c. <br>

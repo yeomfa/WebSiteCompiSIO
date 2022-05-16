@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compilab: Slides</title>
+    <link rel="icon" href="assets/img/icons/iconCompilab.png">
+    <link rel="stylesheet" href="assets/css/styleSlides.css">
+    <link rel="stylesheet" href="assets/css/styleTool.css">
+    <link rel="stylesheet" href="assets/css/styleChat.css">
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+</head>
+
+<body>
+    <!--HEADER-->
+    <header class="container-header">
+        <div class="content-header">
+
+            <div class="container-logo-text">
+                <img src="assets/img/icons/iconCompilab.png" alt="Icono compilab.">
+                <a href="index.html"><span>Compilab</span></a>
+            </div>
+
+            <div class="header-options">
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="slides.html">Contenido</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </header>
+    <!--MAIN-->
+    <main id="main" class="container-main">
+
+        <div class="content-main">
+
+            <h1 tabindex="0">Compiladores e intérpetres</h1>
+
+            <div class="nav-slides-search">
+                <h3 tabindex="0">Diapositivas:</h3>
+                <div class="search">
+                    <input type="text" id="number_2" placeholder="Buscar por número" title="Buscar por número">
+                    <button tabindex="-1"><i class='bx bx-search'></i></button>
+                </div>
+            </div>
+
+            <!--SLIDES-->
+
+            <div id="grid" class="container-grid">
+                <button id="1" class="container-slide slide">
+                    <div class="content-slide">
+                        <img src="assets/content/Compiladores/Slides/1.jpg" class="img-slide" alt="Imagen diapositiva">
+                        <span class="title-slide"> 1 - 129</span>
+                    </div>
+                </button>
+                <button id="130" class="container-slide slide">
+                    <div class="content-slide">
+                        <img src="assets/content/Compiladores/Slides/132.jpg" class="img-slide"
+                            alt="Imagen diapositiva">
+                        <span class="title-slide"> 130 - Autómata de pila </span>
+                    </div>
+                </button>
+                <button id="148" class="container-slide slide">
+                    <div class="content-slide">
+                        <img src="assets/content/Compiladores/Slides/149.jpg" class="img-slide"
+                            alt="Imagen diapositiva">
+                        <span class="title-slide"> 148 - Máquina de Turing </span>
+                    </div>
+                </button>
+                <button id="158" class="container-slide slide">
+                    <div class="content-slide">
+                        <img src="assets/content/Compiladores/Slides/158.jpg" class="img-slide"
+                            alt="Imagen diapositiva">
+                        <span class="title-slide"> 158 - Ánalisis Sintáctico </span>
+                    </div>
+                </button>
+                <button id="161" class="container-slide slide">
+                    <div class="content-slide">
+                        <img src="assets/content/Compiladores/Slides/164.jpg" class="img-slide"
+                            alt="Imagen diapositiva">
+                        <span class="title-slide"> 161 - Gramáticas </span>
+                    </div>
+                </button>
+                <div class="container-slide">
+                    <div class="content-slide">
+                        <img src="assets/img/icons/iconCompilab.png" class="img-slide" alt="Imagen diapositiva">
+                        <span class="title-slide"> Comming soon... </span>
+                    </div>
+                </div>
+            </div>
+
+            <!--BÚSQUEDA-->
+
+            <div id="result">
+                <button id="0" name="searchNum" class="container-slide slide">
+                    <div class="content-slide">
+                        <img name=miniSlide src="" class="img-slide" alt="Imagen diapositiva">
+                        <span id="miniTitle" class="title-slide"></span>
+                    </div>
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <!-- MAIN TOOL -->
+    <main id="main-tool" class="container-main-tool">
+        <div class="container-slide-tool">
+            <div class="container-button">
+                <button class="button" onclick=back() tabindex="4"> <i class='bx bx-chevron-left' title="Anterior"></i>
+                </button>
+            </div>
+            <div class="tool-display">
+
+                <div class="num-search">
+                    <span id="num"></span>
+
+                    <!-- BÚSQUEDA -->
+                    <div class="search">
+                        <input type="text" id="number" placeholder="Buscar por número" title="Buscar por número">
+                        <button id="btn-search" title="Buscar" tabindex="-1"><i class='bx bx-search'></i></button>
+                    </div>
+                </div>
+
+                <div class="display">
+                    <img id="slide" class="view" name="slider" />
+                    <button class="btn-fullscreen" id="btn-full" tabindex="-1"><i class='bx bx-fullscreen'
+                            title="Pantalla completa"></i></button>
+                </div>
+
+            </div>
+
+            <div class="container-button">
+                <button class="button" onclick=next() tabindex="3"> <i class='bx bx-chevron-right'
+                        title="Siguiente"></i>
+                </button>
+            </div>
+        </div>
+        <div class="container-description">
+            <div class="title-description" tabindex="1"> Descripción </div>
+            <div id="no-text" class="descript" tabindex="0">
+                <i class='bx bxs-file-txt'></i>
+                <span>Aún no hay una descripción.</span>
+            </div>
+            <div id="text">
+                <div id="description" class="content-description descript" tabindex="2"></div>
+            </div>
+        </div>
+    </main>
+
+    <footer id="footer" class="container-footer">
+        <img src="assets/img/icons/iconLineCompilab.png" alt="">
+        <h4>By: Brian, Isaac y Omar.</h4>
+    </footer>
+
+
+    <!-- CHAT -->
+
+    <div id="chat" class="chat" tabindex="0" title="Chat">
+        <div class="header-chat">
+            <div class="title-chat" tabindex="0"> Chat </div>
+            <button id="minus-chat" title="Ocultar chat">
+                <i class='bx bx-minus'></i>
+            </button>
+        </div>
+        <div class="container-msg" tabindex="0">
+            <ul id="messages"></ul></div>
+        <form id="form" action="">
+            <input id="input" autocomplete="off" /><button>Send</button>
+        </form>
+    </div>
+
+    <button id="chat-ocult" class="chat-ocult" tabindex="0" title="Chat oculto">
+        <i class='bx bxs-chat' ></i>
+    </button>
+
+    <!-- JS -->
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="assets/js/appChat.js"></script>
+    <script src="assets/js/appContent.js"></script>
+    <script src="assets/js/appTool.js"></script>
+</body>
+
+</html>

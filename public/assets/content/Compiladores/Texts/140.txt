@@ -1,0 +1,23 @@
+140. Título: Ejemplo<br><br>
+Autómata.<br>
+P(estado inicial ) entra y tiene una salida la cual llega a el mismo, luego tiene una segunda salida a Q con las ecuaciones c,#/#, c,b/b y c,a/a, cuando pasa a Q tiene una salida hacia el mismo con las ecuaciones b,b/λ y a,a/λ luego tiene otra salida a R(el estado de aceptación) con la ecuación λ,#/#.<br>
+Imagen:<br>
+Figura árbol de descripciones instantánea de ∝=abbcbba<br><br>
+(p,abbcbba,#) configuración Inicial.<br>
+Línea hacia abajo.<br>
+(p,bbcbba,#a).<br>
+Línea hacia abajo.<br>
+(p,bcbba,#ab).<br>
+Línea hacia abajo.<br>
+(p,cbba,#abb).<br>
+Línea hacia abajo.<br>
+Líneas separadas por espacios hasta.<br>
+(q,bba,#abb).<br>
+Línea hacia abajo.<br>
+(q,ba,#ab).<br>
+Línea hacia abajo.<br>
+(q,a,#a).<br>
+Línea hacia abajo.<br>
+(q,λ,#).<br>
+Línea hacia abajo.<br>
+(r,λ,#) configuración final.<br>

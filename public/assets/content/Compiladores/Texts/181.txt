@@ -1,0 +1,9 @@
+181. Ejercicios: <br><br>
+ 21)¿Cuál es el lenguaje derivado por la siguiente GIC? <br>
+      S→aS|b. <br>
+
+   A.	{〖ba〗^i |i ≥0}.<br>
+   B.	{a^i b^j |i ≥0,j ≥0}.<br>
+   C.	a^i b|i ≥1}.<br>
+   D.	a^i b|i ≥0}.<br>
+   E.	{(ab)^i |i ≥0}.<br>

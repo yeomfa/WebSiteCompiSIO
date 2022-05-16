@@ -1,0 +1,7 @@
+166. Ejemplo: Gramáticas independientes del contexto. <br><br>
+S→AB. <br>
+A→aA | Ab |  ε. <br>
+B→aB | a. <br>
+Los símbolos se leen de la siguiente manera. <br>
+   → Puede ser, se compone de. <br>
+   | O. <br>

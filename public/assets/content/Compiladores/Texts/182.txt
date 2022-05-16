@@ -1,0 +1,14 @@
+182. Ejercicios: <br><br>
+23) ¿Cuál de las GIC deriva el siguiente lenguaje? <br>
+
+(a∪b)^* c^* d^*. <br>
+
+   A.	S -> aS | bS |Sd| A<br>
+	  A->cA |ε . <br>
+   B. S->As |bS |Sc |ε . <br>
+   C. S->AB. <br>
+        A->aA |Ab |ε . <br>
+        B->cB |Bd |ε. <br>
+   D.	S->aS |bS |cS |dS |ε. <br>
+   E.	S->aS |bS |A. <br>
+        A->cA |dA |ε. <br>

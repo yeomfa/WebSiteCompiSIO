@@ -1,0 +1,9 @@
+184. Título: Aplicaciones de la GIC. <br><br>
+
+1) GIC para los enteros. <br>
+
+    E ->ED | D. <br>
+    D -> 0 | 1 | 2 |… |9. <br>
+Es fácil comprobar que esta gramática deriva por ejemplo el entero 789. <br>
+
+    E => ED => EDD =>7DD => 78D => 789. <br>

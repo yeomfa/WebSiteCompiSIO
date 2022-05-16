@@ -1,0 +1,6 @@
+169. Título: Conceptos claves Gramáticas independientes del contexto. <br><br>
+
+Símbolo inicial. <br>
+El símbolo inicial es el no terminal a partir del cual se comienza un proceso de derivación en varios pasos. En el ejemplo, el símbolo inicial es S. Por convención se usa $ para representar el terminal inicial. <br>
+Terminal. <br>
+Los terminales son símbolos que no pueden derivar palabras. En el ejemplo, los terminales son a y b. Por convención representaremos los terminales con letras minúsculas. <br>

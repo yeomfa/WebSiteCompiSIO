@@ -1,0 +1,9 @@
+163. Título: Definición formal de la gramática. <br><br>
+Texto: <br>
+•	Una gramática es una cuádrupla: <br>
+          G= (VT,VN,S,P) <br>
+•Donde: <br>
+    	VT = {conjunto finito de símbolos terminales}. <br>
+    	VN= {conjunto finito de símbolos no terminales}. <br>
+    	S= símbolo inicial y pertenece a VN. <br>
+    	P = conjunto de producciones o de reglas. <br>

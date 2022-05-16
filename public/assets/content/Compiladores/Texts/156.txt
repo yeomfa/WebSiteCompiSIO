@@ -1,0 +1,7 @@
+156. Título: Ejercicio 2:<br><br>
+3) Aplique la siguiente función de transición de una máquina de Turing a la descripción instantánea dada.<br>
+   Función de transición:<br>
+    δ(q_1,a)=(q_1,a,R).<br>
+    δ(q_1,b)=(q_1,b,L).<br>
+    Descripción instantánea: (q_1,▁a bbab).<br>
+

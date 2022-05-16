@@ -1,0 +1,21 @@
+164. Título: Jerarquías de la gramática. <br><br>
+Cuadro texto. <br>
+Tiene 3 columnas: <br>
+1 columna. <br>
+Primera fila: Gramáticas. <br>
+Segunda fila: Sin restricciones o de Tipo. <br>
+Tercera fila:  Sensible al contexto o de Tipo 1. <br>
+Cuarta fila: libre de contexto o de Tipo 2. <br>
+Quinta fila: Regular o de Tipo 3. <br>
+2 columna. <br>
+Primera fila: Lenguajes. <br>
+Segunda fila: Sin restricciones o de Tipo. <br>
+Tercera fila:  Sensible al contexto o de Tipo 1. <br>
+Cuarta fila: Libre de contexto o de Tipo 2. <br>
+Quinta fila: Regular o de Tipo 3. <br>
+3 columna. <br>
+Primera fila: Maquina. <br>
+Segunda fila: Maquina de Turing. <br>
+Tercera fila:  Autómata linealmente acotado. <br>
+Cuarta fila: Autómata con pila. <br>
+Quinta fila: Autómata Finito. <br>

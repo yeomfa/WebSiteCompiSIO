@@ -1,0 +1,6 @@
+173. Título: Lenguaje generado por una gramática. <br><br>
+Sea G una gramática, el lenguaje generado por la gramática, L(G), es el lenguaje de todas las palabras que la gramática G permite derivar. Por ejemplo, el lenguaje generado por la gramática: <br>
+S→ aS|Sb|ε <br>
+es el lenguaje {a^i b^j |i≥0,j≥0}.<br>
+
+

@@ -1,0 +1,3 @@
+135. Imagen de texto:<br><br>
+Título: Regla de la transición<br>
+Las transiciones de un ADPND pueden representarse analíticamente utilizando la regla de transición ∆. Mediante esta regla, una transición σ/A/w que vaya del estado q_i al estado q_j, se representa por:  ∆(q_i,σ,A)={(q_i,w)}<br>

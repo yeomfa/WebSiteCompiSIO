@@ -1,0 +1,4 @@
+157. Título: Ejercicio 3:<br><br>
+Construya una máquina de Turing que analice una cadena sobre {a, b} y cambien todas sus bes por aes. La cabeza inicia sobre el primer símbolo de la izquierda y debe terminar sobre este símbolo. Por ejemplo, si la descripción instantánea inicial es (q_1,▁a babba).<br>
+La descripción instantánea en el momento de la parada debe ser por ejemplo: (q_1,▁a aaaaa).<br>
+

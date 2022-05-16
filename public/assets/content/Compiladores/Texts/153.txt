@@ -1,0 +1,7 @@
+153. Título: Ciclo de una máquina de Turing.<br><br>
+
+1.	Busca que transición puede utilizar. El estado inicial de la transición debe concordar con el estado actual de la máquina y el símbolo a leer de la transición debe concordar con el símbolo señalado por la cabeza por la cabeza lectora-escritora. En todo momento la maquina puede utilizar exactamente una transición, o si no quiere decir que la función de transición está mal construida no sería función.
+Si no se puede utilizar ninguna transición, la maquina se detiene.<br>
+
+2.	Se aplica la transición, según lo explica anteriormente.<br>
+3.	Retrocede al paso 1.<br>

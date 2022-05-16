@@ -1,0 +1,42 @@
+159. Funcionamiento del Parser. <br><br>
+ Imagen: Diagrama de un Parser. <br> <br>
+El diagrama tiene dos lados:  <br>
+•	Lado izquierdo: <br>
+Una imagen de una hoja de papel que dice; (Código Fuente lenguaje 1). <br>
+Flecha hacia abajo con el texto: <br>
+Procesos iniciales del compilador lenguaje 1. <br>
+•	Cuadro de texto. <br>
+Analizador lexicográfico(Scanner). <br>
+Flecha hacia abajo con el texto: <br>
+Analizador sintáctico/semántico(Parser). <br>
+Flecha hacia abajo con el texto: <br>
+Generador de código intermedio. <br>
+•	Fin de cuadro de texto. <br>
+Código intermedio no optimizado<br>
+Flecha hacia el lado derecho señala cuadro de texto que dice: Optimizador de código intermedio. <br>
+Abajo del cuadro de texto. <br>
+Código intermedio optimizado. <br>
+Flecha hacia lado izquierdo señala cuadro de texto que dice: Generador de código objeto 1. <br>
+Abajo del cuadro de texto: código maquina 1. <br>
+Flecha hacia abajo con el texto: <br>
+Imagen de microchip al lado de una PC. <br>
+
+•	Lado derecho: <br>
+Una imagen de una hoja de papel que dice; (Código Fuente lenguaje 2). <br>
+Flecha hacia abajo con el texto: <br>
+Procesos iniciales del compilador lenguaje 2. <br>
+•	Cuadro de texto. <br>
+Analizador lexicográfico(Scanner). <br>
+Flecha hacia abajo con el texto: <br>
+Analizador sintáctico/semántico(Parser). <br>
+Flecha hacia abajo con el texto: <br>
+Generador de código intermedio. <br>
+•	Fin de cuadro de texto. <br>
+Código intermedio no optimizado<br>
+Flecha hacia el lado derecho señala cuadro de texto que dice: Optimizador de código intermedio. <br>
+Abajo del cuadro de texto. <br>
+Código intermedio optimizado. <br>
+Flecha hacia lado izquierdo señala cuadro de texto que dice: Generador de código objeto 2. <br>
+Abajo del cuadro de texto: código maquina 2. <br>
+Flecha hacia abajo con el texto: <br>
+Imagen de una PC al lado de un microchip <br>

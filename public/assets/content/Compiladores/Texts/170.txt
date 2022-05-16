@@ -1,0 +1,7 @@
+170. Título: Conceptos claves Gramáticas independientes del contexto. <br><br>
+Derivación. <br>
+La derivación es un proceso mediante el cual se deriva una palabra en varios pasos comenzando por el símbolo inicial de la GIC. La siguiente es la derivación de la palabra bba utilizando la gramática del ejemplo. <br>
+S => AB => AbB => AbbB => bbB => bba. <br>
+El símbolo => se lee produce, deriva, genera. <br>
+
+Partimos de S y mediante cinco pasos llegamos a bba. Solo podemos realizar los pasos permitidos por la gramática. Por ejemplo, en el segundo paso se reemplazó A por Ab, porque esto lo permite la producción A -> Ab. <br>

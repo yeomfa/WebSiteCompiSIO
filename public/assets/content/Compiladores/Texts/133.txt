@@ -1,0 +1,4 @@
+133. Imagen texto: Cada transición tiene la forma general σ/A/w.<br><br>
+σ puede ser símbolo de alfabeto o la palabra vacía. Si es un símbolo del alfabeto, el ADPND al usar la transición consume este símbolo de la palabra que se está analizando. Si σ es la palabra vacía, el ADPND al usar la transición no consume ningún símbolo.<br>
+A es un símbolo del alfabeto. Al usar la transición, el autómata extrae este símbolo de la pila. Por tanto, la pila debe tener en su tope el símbolo A, o no podrá ser utilizada la transición.<br>
+w es una palabra. Si w es una palabra de uno o más símbolos, el autómata al usar la transición introduce estos símbolos en la pila, en orden de derecha a izquierda. Si w es la palabra vacía, el autómata al usar la transición no introduce símbolos a la pila.<br>

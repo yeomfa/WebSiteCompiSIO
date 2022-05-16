@@ -1,0 +1,5 @@
+165. Título: Gramáticas independientes del contexto. <br><br>
+•	Un lenguaje independiente del contexto se define como uno que es generado por una gramática independiente del contexto (GIC). <br>
+•	 Son ideales para manejar estructuras recursivas. <br>
+•	Las GIC constan de especificaciones similares a las anteriores, denominadas producciones. <br>
+

@@ -1,0 +1,17 @@
+150. Título: Máquina de Turing. <br><br>
+Imagen1:<br>
+MT=(Q,∑,Γ,δ,q_0,B,F).<br>
+Una cinta con los números {1,1,0,0,0,0,1,1,1,1,1,1,0,1,1} con un pentágono rectangular señalando al medio de la cinta con flecha ala izquierda que dice (Movimiento a izquierda), la otra flecha señalando a la derecha que dice (Movimiento a derecha), debajo del pentágono dice cabeza de lectura/escritura.<br>
+Imagen2:<br>
+Q = {conjunto de estados}.<br>
+Γ= {conjunto de símbolos permitidos en la cinta}.<br>
+Bϵ Γ = es el símbolo blanco.<br>
+∑ ϵΓ = es el subconjunto de símbolo de entrada no incluye el blanco.<br>
+δ:QxΓ→QxΓx{I,D,S} donde δ es la función del siguiente movimiento, I  significa movimiento a izquierda. D significa movimiento a derecha y S parada (Stop).<br>
+q_0 ϵQ es el estado inicial.<br>
+F⊂Q es el subconjunto de estados finales.<br>
+Imagen3: <br>
+Tabla <br>
+PosicionFila0: 0,0= δ,  0,1=0, 0,2=1, 0,3= ▭.<br>
+PosiciónFila1: 1,0=→q_0,  1,1=〖(q〗_0,0,+),  1,2=〖(q〗_0,0,+),  〖(q〗_F,▭,=).<br>
+PosiciónFila2: 2,0=〖*q〗_F, 2,1=vacío, 2,2=vacío, 2,3=vacío.<br>

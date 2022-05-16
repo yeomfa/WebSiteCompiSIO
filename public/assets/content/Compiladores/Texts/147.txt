@@ -1,0 +1,9 @@
+147. Imagen ejercicio<br>
+Pregunta: ¿Cuál es el lenguaje aceptado por los siguientes ADPND?.<br><br>
+∆(q_1,a,z)={(q_1,bz)}.<br>
+∆(q_1,a,b)={(q_1,bb)}.<br>
+∆(q_1,b,b)={(q_2,ε)}.<br>
+∆(q_2,b,b)={(q_2,ε)}.<br>
+∆(q_2,ε,b)={(q_3,ε)}.<br>
+∆(q_3,ε,z)={(q_4,z)}.<br>
+F={q_4}.<br>

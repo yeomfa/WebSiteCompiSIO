@@ -1,0 +1,4 @@
+162. Título: Gramáticas. <br><br>
+Texto: <br>
+•	La gramática es un ente formal para especificar , de una manera finita el conjunto de símbolos que constituyen un lenguaje. <br>
+•	Conjunto finito de reglas para formar (fórmulas bien formadas)  cadenas finitas juntando símbolos del alfabeto. <br>

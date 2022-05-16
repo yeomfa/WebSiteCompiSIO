@@ -1,0 +1,9 @@
+180. Ejercicios: <br><br>
+21)¿Cuál es el lenguaje derivado por la siguiente GIC? <br>
+      S→abS|Sc| ε. <br>
+
+   A.	{(ab)^i c^j |i ≥1,j≥1}.<br>
+   B.	{(ab)^i c^i |i ≥0,i≥0}.<br>
+   C.	{(ab)^i c^j│i ≥0,j≥0}. <br>
+   D.	{a^i b^j c^k  ┤|i ≥0,j≥0,k≥0}.<br>
+   E.	{(abc)^i |i ≥0}.<br>

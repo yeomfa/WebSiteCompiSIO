@@ -1,0 +1,17 @@
+154. Imagen texto:<br><br>
+1) Aplique la siguiente función de transición de una máquina de Turing a la configuración dada.<br>
+Función de transición<br>
+δ(q_1,a)=(q_1,a,R).<br>
+δ(q_1,b)=(q_2,a,R).<br>
+δ(q_2,a)=(q_2,a,R).<br>
+δ(q_2,b)=(q_2,b,R).<br>
+δ(q_2,B)=(q_3,B,L).<br>
+Configuración.<br>
+(q_1,▁a babb).<br>
+Nota: B representa un espacio en blanco.<br>
+¿En cual de las siguientes configuraciones para la maquina?.<br>
+	A.(q_3,aaab▁b  ).<br>
+	B.(q_3,aaaa▁a  ).<br>
+	C.(q_3,▁a aabb ).<br>
+	D.(q_3,aaabb_ ).<br>
+	E.(q_3,▁a aaaa ).<br>

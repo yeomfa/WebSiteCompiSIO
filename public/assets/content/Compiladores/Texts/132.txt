@@ -1,0 +1,6 @@
+132.Título:  autómata de pila no determinista <br><br>
+Texto: la pila tiene un símbolo inicial, que en los ejemplos representaremos por Z<br>
+Subtitulo: Ejemplo del diagrama de transición de un ADPND<br>
+Imagen: Contiene un autómata no determinista<br>
+Empieza señalando a q1( no es un estado de aceptación) donde empieza a entrar la expresión, tiene una línea que vuelve a ella misma la expresión (a/Z/ABC), también otra línea que sale a q2 (circulo que no es un estado de aceptación), de q2 salen dos líneas una contiene la expresión (ε/B/B), y la otra contiene b/A/B ambas líneas  llegan a q4 (es el estado de aceptación), de q4 sale otra línea a q3(otro estado de aceptación) con la expresión b/B/B.
+De q1 sale otra línea a q3(estado de aceptación) con la expresión a/Z/Z, de q3 sale otra línea así mismo con la expresión (b/Z/ε)

@@ -1,0 +1,13 @@
+167. Ejemplo: Gramáticas independientes del contexto. <br><br>
+Producción. <br>
+Las producciones son reglas que permiten derivar en un paso una palabra a partir de un símbolo. Por ejemplo y de acuerdo con la GIC anterior, se puede derivar Ab a partir de A, gracias a la producción A→Ab. <br>
+
+
+La gramática anterior consta de 6 producciones. <br>
+   •	S→AB. <br>
+   •	A→aA. <br>
+   •	A→Ab. <br>
+   •	A→ε. <br>
+   •	B→aB. <br>
+   •	B→a. <br>
+

@@ -1,0 +1,15 @@
+137. Imagen texto:
+Se presenta como primer ejemplo el caso del reconocimiento de un palíndromo de largo impar, donde el carácter central es un separador que no está presente en el prefijo que lo antecede. Es decir que la cadena a ser aceptada toma la forma general β=ZcZ^(-1), donde Z_ϵ 〖{a,b}〗^*. Se pide:<br>
+	a)Proponer el grafo de un autómata que acepte este tipo de cadenas.<br>
+	b)Representarlo formalmente.<br>
+	c)Comprobar el comportamiento del autómata ante la cadena de entrada ∝=abbcbba.<br>
+	Grafo del autómata de pila.<br><br>
+Imagen Autómata:<br>
+b,b/bb.<br>
+a,b/ba.<br>
+b,a/ab.<br>
+a,a/aa.<br>
+b,#/#b.<br>
+a,#/#a.<br>
+Autómata. <br>
+P(estado inicial ) entra y tiene una salida la cual llega a el mismo, luego tiene una segunda salida a Q con las ecuaciones c,#/#, c,b/b y c,a/a, cuando pasa a Q tiene una salida hacia el mismo con las ecuaciones b,b/λ y a,a/λ luego tiene otra salida a R(el estado de aceptación) con la ecuación λ,#/#.<br>

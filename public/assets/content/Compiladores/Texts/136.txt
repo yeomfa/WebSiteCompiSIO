@@ -1,0 +1,13 @@
+136. Titulo: Ejemplo del diagrama de transición de un ADPND. <br><br>
+Imagen1: contiene un autómata no determinista.<br>
+Empieza señalando a q1( no es un estado de aceptación) donde empieza a entrar la expresión, tiene una línea que vuelve a ella misma la expresión (a/Z/ABC), también otra línea que sale a q2 (circulo que no es un estado de aceptación), de q2 salen dos líneas una contiene la expresión (ε/B/B), y la otra contiene b/A/B ambas líneas llegan a q4 (es el estado de aceptación), de q4 sale otra línea a q3(otro estado de aceptación) con la expresión b/B/B.
+De q1 sale otra línea a q3(estado de aceptación) con la expresión a/Z/Z, de q3 sale otra línea así mismo con la expresión (b/Z/ε).<br>
+Imagen2: Contiene ecuaciones.<br>
+∆(q_1,a,z)={(q_2,ABC),(q_3,Z)}.<br>
+∆(q_1,b,A)={(q_2,BAB)}.<br>
+∆(q_2,ε,B)={(q_4,B)}.<br>
+∆(q_2,b,A)={(q_4,B)}.<br>
+∆(q_4,b,B)={(q_4,BB)}.<br>
+∆(q_3,b,Z)={(q_3,ε)}.<br>
+El conjunto de los estados de aceptación se representa por F={q_3,q_4}.<br>
+

@@ -1,0 +1,3 @@
+171. Título: Conceptos claves Gramáticas independientes del contexto. <br><br>
+Árbol de derivación o análisis.<br>
+La derivación de una palabra mediante una GIC también puede ser representada por un árbol denominado árbol de derivación o de análisis. Por ejemplo, la derivación anterior puede ser representada por el siguiente árbol de derivación: <br>

@@ -1,0 +1,7 @@
+134. ¿Cuándo se acepta una cadena?<br><br>
+Imagen de texto:<br>
+Un ADPND acepta una palabra cuando existe al menos una ruta que tenga las siguientes características.<br>
+•	La ruta debe partir del estado inicial <br>
+•	La ruta debe consumir exactamente los símbolos de la palabra, en el orden en el que aparecen en ella.<br>
+•	La ruta debe terminar en un estado final.<br>
+•	Debe ser posible que el ADPND realice todas las operaciones sobre la pila indicada por la ruta. No interesa si al final la pila queda vacía o no.<br>

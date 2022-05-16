@@ -1,0 +1,5 @@
+185. Título: Aplicaciones de la GIC. <br><br>
+ 2) GIC para los Enteros con signo. <br>
+
+     C -> SE. <br>
+     S -> +| - |ε. <br>

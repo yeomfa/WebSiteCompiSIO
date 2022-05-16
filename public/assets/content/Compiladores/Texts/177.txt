@@ -1,0 +1,10 @@
+177. Ejercicios: <br><br>
+ 18)¿Cuál es el lenguaje derivado por la siguiente GIC? <br>
+          S→aSd | A. <br>
+          A→bAc | ε. <br>
+
+   A. {a^i b^j c^j d^i  ┤|i ≥0,j≥0}.<br>
+   B.	{a^i b^j c^k d^m  ┤|i ≥0,j≥0,k≥0,m≥0}.<br>
+   C.	{(abcd)^i ┤|i ≥0}.<br>
+   D.	{a^i b^j c^i d^j  ┤|i≥0}.<br>
+   E.	a^* b^* c^* d^*. <br>

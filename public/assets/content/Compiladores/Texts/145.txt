@@ -1,0 +1,5 @@
+145. Imagen con autómata<br>
+Pregunta: 2) en el siguiente ADPND ¿Cuáles de las palabras dadas acepta el ADPND?<br><br>
+q1 estado inicial tiene dos salidas una con la expresión a/Z/AZ y el otro con la expresión a/Z/BZ ambos llegan a q2(estado de aceptación ) el cual tiene dos líneas que salen hacia si mismo con las expresiones b/B/B y a/A/A.
+a) ba        c) a.<br>
+b) aba     d) abb. <br>

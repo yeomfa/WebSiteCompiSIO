@@ -1,0 +1,12 @@
+172. Título: Conceptos claves : Gramáticas independientes del contexto. <br><br>
+Imagen: Árbol de derivación. <br>
+S. (es el Nodo Raíz tiene 2 hijos “izquierda y derecha”). <br>
+Hijo izquierdo del Nodo Raíz. <br>
+A (tiene 2 hijos “izquierda y derecha”). <br>
+Hijo derecho “b”. <br>
+Hijo izquierdo A (tiene 2 hijos “izquierda y derecha”). <br>
+Hijo derecho “b”. <br>
+Hijo izquierdo A (tiene 1 hijos el cual es ε). <br>
+Hijo Derecho del Nodo Raíz. <br>
+Tiene un hijo “B”. <br>
+“B” tiene un hijo “a”. <br>

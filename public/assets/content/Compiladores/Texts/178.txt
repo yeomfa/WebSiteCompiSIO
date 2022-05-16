@@ -1,0 +1,4 @@
+178. Ejercicios: <br><br>
+ 19)¿Cuál es el lenguaje derivado por la siguiente GIC? <br>
+       S→aSd | A. <br>
+       A→cA|Ad | ε. <br>

@@ -1,0 +1,4 @@
+168. Título: Conceptos claves Gramáticas independientes del contexto. <br><br>
+
+No terminal. <br>
+Los no terminales son los símbolos que pueden derivar palabras. En el ejemplo, los no terminales son S, A, B. Por convención, se representan los no terminales con letras mayúsculas. <br>

@@ -1,0 +1,5 @@
+186. Título: Aplicaciones de la GIC. <br><br>
+3) GIC para los identificadores del Lenguaje de programación Java. <br>
+
+	I -> IL | ID |I$ | I_ |L |$ | _.<br>
+	L -> A | B | … | Z |a | b | … |z . <br>

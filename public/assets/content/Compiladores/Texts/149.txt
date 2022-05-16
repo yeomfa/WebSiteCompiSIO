@@ -1,0 +1,7 @@
+149. Título: Máquina de Turing. <br> <br>
+Imagen1: <br>
+Una cinta la cual esta pasando por una máquina. <br>
+Imagen2:  <br>
+Una cinta dividida en 9 cuadros los dos primeros están vacíos, los 5 siguientes contiene 1,0,0,1,1 respectivamente los dos ultimo vacíos. Luego un cuadro debajo de la cinta que tiene q0 con una flecha señalando a la cinta. <br>
+Imagen3: <br>
+Retrato de Alan Turing (padre de la inteligencia artificial ). <br>

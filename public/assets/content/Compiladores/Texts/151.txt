@@ -1,0 +1,4 @@
+151. Título: Descripción instantánea.<br><br>
+Imagen:<br>
+Una cinta dividida en 12 cuadros los tres primeros están vacíos, los 6 siguientes contiene 1,0,0,1,1,1 respectivamente los tres ultimo vacíos. Luego un cuadro debajo del lado izquierdo de la cinta, que tiene q1(Estado interno). Y del lado derecho en el último “ 1” una flecha señalando desde abajo que dice: Cabeza lectora-escritora.<br>
+Debajo de todo (q1,100111).<br>
