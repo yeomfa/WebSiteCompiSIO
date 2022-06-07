@@ -1,0 +1,8 @@
+43. Análisis sintáctico por descenso recursivo. <br><br>
+Imagen texto: <br>
+AP : i c l f n d n p l o b $.<br>
+Nodo Activo: n. <br>
+Acción: Coincidencia AP y nodo activo. Avanzar AP y seguir recorrido. <br>
+AP : i c l f n d n p l o b $.<br>
+Nodo Activo: p. <br>
+Acción: Coincidencia AP y nodo activo. Avanzar AP y seguir recorrido. <br>

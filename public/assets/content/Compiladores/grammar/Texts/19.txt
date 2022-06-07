@@ -1,0 +1,27 @@
+19. Análisis sintáctico por descenso recursivo. <br><br>
+Tabla: <br>
+<condición>:  S. <br>
+<comparación> : A. <br>
+<sig_condición>: B. <br>
+<operador>: C. <br>
+<condición_op>: D. <br>
+<número>: E. <br>
+<órdenes>: F. <br>
+<orden>: G. <br>
+<asignación>: H. <br>
+Else : a. <br>
+End: b. <br>
+If: i. <br>
+( : c. <br>
+):d. <br>
+== :e. <br>
+< : f. <br>
+> : g. <br>
+<=: h. <br>
+>=: j. <br>
+<>: k. <br>
+num_entero :  l. <br>
+num_real : m. <br>
+identificador: n<br>
+; : o. <br>
+:= : p. <br>

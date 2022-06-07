@@ -1,0 +1,3 @@
+216. Título: Algoritmo para eliminar la recursividad por la izquierda. <br><br>
+Imagen texto. <br>
+Sea G una GIC y sea A un no terminal de G que tiene producciones recursivas por la izquierda. Sean las siguientes todas las producciones de A. <br>

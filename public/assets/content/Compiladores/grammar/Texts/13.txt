@@ -1,0 +1,5 @@
+13. Título: Características y Clasificación Gramáticas libres del contexto (GLC). <br><br>
+Solución. <br>
+N ->  (NON) | id | num | (NON)N’ | idN’ | numN’. <br>
+N’ -> ONN’ | ON. <br>
+

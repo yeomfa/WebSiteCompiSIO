@@ -1,0 +1,7 @@
+23. Análisis sintáctico por descenso recursivo. <br><br>
+	Si el nodo activo es un terminal, a, entonces se compara con el símbolo de entrada apuntada por el apuntador de entrada, en nuestro caso AP. <br>
+
+    En el caso de que sean iguales, el nodo activo pasa a ser el siguiente en preorden y avanzamos el apuntador en una posición a la derecha. <br>
+    Si no fueran iguales, entonces se vuelve al nodo en donde se aplicó la última producción y se aplica la siguiente producción que se desea probar. <br>
+   	Sino existen más alternativas, entonces volvemos a retroceder un nivel y aplicamos el mismo proceso. <br>
+   	Enel caso de que la producción que tenga que utilizar sea e, no avanzará en la cadena de entrada, pero sí que seguirá el recorrido del árbol. <br>

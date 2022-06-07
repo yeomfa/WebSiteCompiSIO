@@ -1,0 +1,12 @@
+63. imagen texto. <br>
+Como al nivel de profundidad actual no hay más nodos a la derecha del etiquetado con c., subimos un nivel en el árbol, haciendo activo al nodo b, a la derecha de el que acabamos de expandir (S). <br>
+
+Se comprueba que su etiqueta coincide con as a_4 por lo tanto, actualizamos el apuntador, y hacemos activo el nodo a la derecha del etiquetado con b, que lleva la etiqueta S. <br>
+
+Si lo expandimos con la primera opción fallará, al igual que con la segunda. Sin embargo, la tercera generará el árbol. <br>
+Árbol. <br>
+Nodo padre S. <br>
+Tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 1 hijos(hijo1: c). <br>
+Hijo4: S tiene 1 hijos(hijo1: c). <br>

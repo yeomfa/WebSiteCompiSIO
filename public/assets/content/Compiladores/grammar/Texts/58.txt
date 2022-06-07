@@ -1,0 +1,5 @@
+58. imagen texto. <br><br>
+Si aplicamos el proceso anterior al ejemplo previamente introducido etiquetamos al primer nodo con S y lo Activamos. Al elegir y aplicar la primea S– producción, tenemos el árbol siguiente . <br>
+Árbol. <br>
+Nodo padre S. <br>
+Tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>

@@ -1,0 +1,4 @@
+220. Título: Ejercicio 2: <br><br>
+Aplique el procedimiento de eliminar la recursividad por la izquierda a la siguiente gramática. <br>
+
+X -> X ++ |X-- | X +a | -X |b. <br>

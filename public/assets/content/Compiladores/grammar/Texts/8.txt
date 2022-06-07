@@ -1,0 +1,3 @@
+8. Título: Características y Clasificación Gramáticas libres del contexto (GLC). <br><br>
+  • Sabemos que no pueden tener ambigüedad. Está produce más de una derivación o interpretación. Por ende, tiene varias traducciones de código fuente a código máquina. Por lo tanto, no es posible crear un analizador eficiente para gramática ambiguas. <br>
+  • Eliminamos ambigüedad por asociatividad por precedencia. <br>

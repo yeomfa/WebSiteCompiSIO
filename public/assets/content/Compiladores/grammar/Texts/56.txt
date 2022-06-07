@@ -1,0 +1,7 @@
+56. imagen texto. <br><br>
+Sea la gramática G = (V_N, V_T, P, S), con las producciones de P=(S -> aSbS| aS | cy.
+Asumimos como orden predeterminado el mismo en el que aparecen. <br>
+Sea la cadena de entrada w = aacbc. <br>
+Usaremos un apuntador, que nos indica en todo momento el símbolo a_i  ∈w que estamos intentando reducir. <br>
+El árbol de derivación va a contener inicialmente el símbolo S. <br>
+En todo momento, en el árbol va a haber un nodo activo. Inicialmente el nodo activo es S. <br>

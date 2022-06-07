@@ -1,0 +1,9 @@
+62. imagen texto. <br><br>
+Si probamos la última opción. <br>
+Árbol. <br>
+Nodo padre S. <br>
+Tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 1 hijos(hijo1: c). <br>
+Vemos que haciendo previamente nodo activo al que se acaba de generar, a_3=c. <br>
+

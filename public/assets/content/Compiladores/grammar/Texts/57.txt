@@ -1,0 +1,10 @@
+57. imagen texto. <br>
+A partir de ahí se van a ejecutar los siguientes pasos: <br>
+1. Si el nodo activo está etiquetado con A  ∈ V_N.<br>
+	- Se escoge la primera alternativa correspondiente a las partes derechas de A. <br>
+	- Sea esta X_1 X_2… X_K. Creamos k descendientes directos: X_1,X_2,…,X_K.. <br>
+	- Ahora X_1es el nodo activo (si k = O el nodo activo es el que se encuentra inmediatamente a la derecha de A). <br>
+2. Si el nodo activo está etiquetado con  a ∈V_T, se compara a con el símbolo de w apuntado por el apuntador anteriormente mencionado. <br>
+	- Si coinciden, el nodo activo pasa a ser el inmediatamente derecho del etiquetado con a_1y se avanza el puntero un lugar a la derecha. <br>
+	- Si no, se vuelve al nodo en donde se aplicó la producción última, se ajusta el puntero y se aplica la siguiente producción de entre las alternativas. <br>
+	- Si no hubiera más alternativas entonces, volver a subir un nivel, y repetir el proceso. <br>

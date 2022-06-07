@@ -1,0 +1,7 @@
+206: Título: Ejemplo notación BNF.<BR><BR>
+Imagen texto.<BR>
+20. '<'DefiniciónFuncion'>' ::=.<BR>
+	función '<'Identificador'>'.<BR>
+	“(“ ['<'ListaParámetros'>' ] “)”.<BR>
+		'<'ListaSentencias'>'.<BR>
+	Fin función.<BR>

@@ -1,0 +1,8 @@
+15. Título: Características y Clasificación Gramáticas libres del contexto (GLC). <br>15. Título: Características y Clasificación Gramáticas libres del contexto (GLC). <br>
+Subtitulo: Análisis sintáctico por descenso recursivo. <br>
+Consiste en encontrar una derivación por la izquierda para una cadena de entrada. En otras palabras, transformar a símbolos terminales la cadena de entrada obtenida en el análisis léxico.
+Construye un árbol de derivación de análisis sintáctico en orden previo o preorden, desde la raíz hacia los nodos de las hojas. <br> 
+
+Subtitulo: Análisis sintáctico por descenso recursivo. <br>
+Consiste en encontrar una derivación por la izquierda para una cadena de entrada. En otras palabras, transformar a símbolos terminales la cadena de entrada obtenida en el análisis léxico.
+Construye un árbol de derivación de análisis sintáctico en orden previo o preorden, desde la raíz hacia los nodos de las hojas. <br> 

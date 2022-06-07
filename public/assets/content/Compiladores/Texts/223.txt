@@ -1,0 +1,4 @@
+223. Título: Respuesta Ejercicio anterior: <br><br>
+Respuesta: <br>
+E -> b |bZ. <br>
+Z -> *^a | *^aZ. <br>

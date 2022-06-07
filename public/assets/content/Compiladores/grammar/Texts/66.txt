@@ -1,0 +1,18 @@
+66. imagen árbol. <br><br>
+El nuevo nodo activo, etiquetado con una a coincide con a_2. Avanzamos el puntero y hacemos activo a S, a su derecha. Aplicamos la primera S —producción y obtenemos el árbol. <br>
+Nodo padre S. <br>
+Tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 2hijos(hijo1: a, hijo2: S). <br>
+Hijo2: S tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Que no resulta válido. Aplicando la segunda tampoco obtenemos un árbol adecuado. Si aplicamos la tercera, obtenemos. <br>
+Nodo padre S. <br>
+Tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 2 hijos(hijo1: a, hijo2: S). <br>
+Hijo2: S tiene 1hijos(hijo1: c). <br>
+Si seguimos aplicando el algoritmo de esta forma obtendremos como primer árbol de derivación válido, el siguiente: <br>
+Nodo padre S. <br>
+Tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 2 hijos(hijo1: a, hijo2: S). <br>
+Hijo2: S tiene 1hijos(hijo1: c). <br>
+Hijo4: S tiene3 1hijos(hijo1: c). <br>
+

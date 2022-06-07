@@ -1,0 +1,10 @@
+75. Título: Implementación del método por desplazamiento y reducción. <br><br>
+Imagen texto: <br>
+1. Una pila que maneje los símbolos gramaticales. <br>
+2. Un buffer de entrada para manejar la cadena w (compuesta por símbolos terminales) a analizar. <br>
+
+El estado inicial para la pila es “$” y para la entrada es “w $”, es decir, la cadena a analizar terminada con el símbolo “$”.<br>
+
+El analizador desplazará cero o más símbolos de la entrada a la pila, hasta que un mango esté en la cima. En este caso se procederá a la sustitución del mango en la cadena de entrada por el no terminal correspondiente. <br>
+
+Estos pasos se repetirán hasta que se detecte un error o hasta que la pila contenga el símbolo inicial y el buffer de entrada esté vacío. En ese caso, el analizador sintáctico habrá terminado correctamente. <br>

@@ -1,0 +1,9 @@
+22 . Análisis sintáctico por descenso recursivo. <br><br>
+Imagen texto. <br>
+El analizador dispondrá de un apuntador (AP), que inicialmente apuntará
+al símbolo situado más a la izquierda de la cadena de entrada, es decir, al símbolo
+terminal i. Siempre habrá un nodo activo, que será el nodo inicial, etiquetado con S. <br>
+El funcionamiento es el siguiente: <br>
+Si el nodo activo está etiquetado con un no terminal cualquiera, A, se expande dicho nodo con la producción más a la izquierda. Es decir, si tenemos una producción del tipo... <br>
+          A→ X_1 X_2 X_3 X_4…|  Y_1 Y_2 Y_3…|  Z_1 Z_2 Z_3…,<br>
+... en un principio el analizador creará los nodos X_1 X_2 X_3 X_4… como hijos del nodo A, pasando a ser ahora X_1 el nodo activo. <br>

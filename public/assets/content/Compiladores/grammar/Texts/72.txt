@@ -1,0 +1,5 @@
+72. Título: Métodos de análisis ascendente. <br>
+Imagen texto: <br>
+Elementos que intervienen en el proceso. <br>
+Mango: <br>
+Informalmente podemos decir que un mango es una subcadena que concuerda con el lado derecho de una producción y cuya reducción al no terminal del lado izquierdo representa un paso a lo largo de la inversa de una derivación por la derecha, siempre y cuando represente un paso para llegar al símbolo inicial de una gramática. <br>

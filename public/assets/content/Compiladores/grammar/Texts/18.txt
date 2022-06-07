@@ -1,0 +1,10 @@
+18. Título: Análisis sintáctico por descenso recursivo. <br><br>
+<condición>    -> if ( <comparación > ) <órdenes> <sig_condición>.<br>
+<sig_condición> -> end |  else <ordenes > end. <br>
+<comparación > -> <operador> <condición_op> <operador>.<br>
+<condición_op> -> == | < | > | <= | >= | <>.<br>
+<operado r>  -> identificador | <número>.<br>
+<número>     -> num_entero |  num_real. <br>
+<órdenes>    -> <orden> ; |  <orden> ; <óenes>.<br>
+<orden>      -> <condición>  |  <asignación >.<br>
+<asignación> -> identificador := <número>.<br>

@@ -1,0 +1,4 @@
+213. Título: Ejercicios. <br><br>
+Demuestre que la siguiente gramática es ambigua. <br>
+X -> X + T |T + X | T. <br>
+T -> a| b. <br>

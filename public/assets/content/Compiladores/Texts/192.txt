@@ -1,0 +1,9 @@
+192: Título: Ejemplo notación BNF.<BR><BR>
+Imagen texto:<BR>
+un solo carácter va entre comillas en la notación BNF. El símbolo o (|) es igual en ambas notaciones.<BR>
+2. '<'Entero'>' ::=<BR>
+'<'Digito'>' '<'Entero'>'|.<BR>
+'<'Dígito'>'.<BR>
+Note la correspondencia con la notación anterior:<BR>
+     E->DE|D.<BR>
+3. '<'Signo'>' ::= ”4” |” - ”.<BR>

@@ -1,0 +1,5 @@
+16. Título: Análisis sintáctico por descenso recursivo. <br><br>
+Texto: <br>
+   • Ventajas: Sencillez a la hora de implementarlo. Analiza todo tipo de gramáticas sin problemas, porque usa retroceso y recursión. <br>
+   • Desventajas: Ineficiencia porque realiza gran cantidad de pruebas y retrocesos para una entrada de palabras pequeña. <br>
+La ineficiencia se soluciona si en cada momento de la derivación se aplica una regla gramatical.  No es muy utilizado porque existen métodos sin retroceso. <br>

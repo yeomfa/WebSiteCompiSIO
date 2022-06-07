@@ -2,26 +2,15 @@
 
 let num_2 = document.getElementById('number_2');
 let slides = document.getElementsByClassName('slide');
-let btnMinus = document.getElementById('minus-chat');
-let btnShowChat = document.getElementById('chat-ocult');
-var numSlide = "";
+var slideGroup = '';
+var numSlide = null;
 var bandId = 0;
 
-$('#chat').hide();
-
-btnMinus.addEventListener('click', () => {
-    $("#chat").hide();
-    $('#chat-ocult').show();
-})
-
-btnShowChat.addEventListener('click', () => {
-    $("#chat").show();
-    $('#chat-ocult').hide();
-});
-
 //Inicializamos vista
+
 $("#result").hide();
 $("#main-tool").hide();
+$("#back-slide").hide();
 
 //Buscar por número
 num_2.addEventListener('keyup', (event) => {
@@ -57,23 +46,27 @@ for(var i = 0; i<slides.length; i++){
 }
 
 function checkDiv(){
-    numSlide = this.id;
-    document.slider.src = 'assets/content/Compiladores/Slides/' + numSlide + '.jpg';
-    $("#description").load('assets/content/Compiladores/Texts/' + numSlide + '.txt');
-    $("#num").text(numSlide);
-    $("#main").hide();
-    $("#main-tool").show();
-    $("#footer").hide();
-}
-
-//Atajos
-
-window.addEventListener('keyup', (event) => {
-
-    key = event.key;
-
-    if(key == 'c'){
-        $('#chat').focus();
+    if(this.id=='grammar'){
+        slideGroup = this.id;
+        numSlide = 1;
+        document.slider.src = 'assets/content/Compiladores/grammar/Slides/' + numSlide + '.jpg';
+        $("#description").load('assets/content/Compiladores/grammar/Texts/' + numSlide + '.txt');
+        $("#num").text(numSlide);
+        $("#main").hide();
+        $("#main-tool").show();
+        $("#back-slide").show();
+        $("#footer").hide();
+        sendMsg(numSlide)
+    }else{
+        slideGroup = 'other'
+        numSlide = this.id;
+        document.slider.src = 'assets/content/Compiladores/Slides/' + numSlide + '.jpg';
+        $("#description").load('assets/content/Compiladores/Texts/' + numSlide + '.txt');
+        $("#num").text(numSlide);
+        $("#main").hide();
+        $("#main-tool").show();
+        $("#back-slide").show();
+        $("#footer").hide();
+        sendMsg(numSlide);
     }
-
-});
+}

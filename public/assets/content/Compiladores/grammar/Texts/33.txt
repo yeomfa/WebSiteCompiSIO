@@ -1,0 +1,12 @@
+33. Análisis sintáctico por descenso recursivo. <br><br>
+Imagen texto: <br>
+AP : i c l f n d n p l o b $.<br>
+Nodo Activo: I. <br>
+Acción: Generar hijos para E con la producción E -> I. <br>
+Árbol: <br>
+S nodo padre.(tiene 6 nodos hijos). <br>
+Hijo1: i, hijo2: c, hijo3: A, hijo4: d, hijo5: F, hijo6: B. <br>
+Hijo3: A tiene 3 hijos. <br>
+Hijo1: C, hijo2: D, hijo3: C. <br>
+Hijo1: C, tiene 1 hijo. <br>
+hijo1: E, el cual tiene 1 hijo(hijo1: I). <br>

@@ -1,0 +1,13 @@
+208: Título: Ejercicios.<BR><BR>
+Imagen texto.<BR>
+7) ¿Cuál de los identificadores se puede derivar la siguiente BNF?<BR>
+'<'Identificador'>' ::=	'<'Identificador'>' '<'Digito'>' |<BR>
+		      	“$"'<'Mayúscula'>'<'Minúscula'>'<BR>
+'<'Digito'>' ::= 	“1" |"2" |”3”|... | "9".<BR>
+'<'Minúscula'>' ::= 	“a" |"b" |”c”|... | "z".<BR>
+'<'Mayúscula'>' ::= 	“A" |"B" |”C”|... | "Z".<BR>
+A. $Ab314.<BR>
+B. A210.<BR>
+C. Ab1.<BR>
+D. $Abc.<BR>
+E. $AbA1.<BR>

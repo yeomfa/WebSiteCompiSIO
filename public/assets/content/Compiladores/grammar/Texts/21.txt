@@ -1,0 +1,3 @@
+21 . Análisis sintáctico por descenso recursivo. <br><br>
+Imagen: <br>
+W = i c l f n d n p l o b $.<br>

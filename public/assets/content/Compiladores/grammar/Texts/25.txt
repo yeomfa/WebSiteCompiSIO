@@ -1,0 +1,4 @@
+25. Análisis sintáctico por descenso recursivo. <br><br>
+Acción. Dependiendo del valor del nodo activo y AP, el analizador realizará una de las siguientes acciones: <br>
+   	Generar nodo inicial S. <br>
+   	Generar nodo S utilizando la producción A > a, donde a es cualquier conjunto de símbolos gramaticales. En el caso de que a. = aBcD, se generarán los nodos etiquetados con a, B, c y D, en este orden, de izquierda a derecha, y como hijos del nodo A. <br>

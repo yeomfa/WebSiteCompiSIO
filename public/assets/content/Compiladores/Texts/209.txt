@@ -1,0 +1,16 @@
+209: Título: Ejercicios.<BR><BR>.
+Imagen texto.<BR>.
+8) De un ejemplo de una sentencia de asignación de acuerdo con la siguiente gramática.<BR>
+'<'Variable'>' ::=<BR>.
+a01 | b02 | c03.<BR>.
+'<'Oper. de Asignación '>' ::=.<BR>
+<<< | <-.
+'<'Operador Aritmético'>' ::=.<BR>
+“+" |"-" |”*” | "/".<BR>
+'<'Función'>' ::=.<BR>
+raiz | abs | exp.<BR>
+'<'Expresión '>' ::=.<BR>
+"("'<'Variable'>'")"'<'Funcion'>'".<BR>
+("'<'Variable'>'")"['<'Funcion'>']'<'Operador Aritmético'>'.<BR>
+'<'Sentencia de Asignación'>' ::=.<BR>
+'<'Variable'>'<'Operador de Asignación'>'<'Expresión'>'.<BR>

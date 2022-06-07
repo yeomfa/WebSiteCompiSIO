@@ -1,0 +1,7 @@
+202: Título: Ejemplo notación BNF.<BR><BR>
+Imagen texto.<BR>
+12. '<'SentenciaHacerMientras'>' ::=.<BR>
+	Para '<'identificador'>':= '<'Expresión'>'<BR>
+		Hasta '<'Expresión'>' hacer.<BR>
+		'<'ListaSentencias'>'<BR>
+	Fin para.<BR>

@@ -1,0 +1,4 @@
+221. Título: Respuesta Ejercicio anterior: <br><br>
+
+X -> -X | b| -XZ | bZ. <br>
+Z -> ++| - - |+a |++Z |- - Z | +aZ. <br>

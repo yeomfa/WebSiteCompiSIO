@@ -1,0 +1,6 @@
+217. Título: Algoritmo para eliminar la recursividad por la izquierda. <br><br>
+A→Aα_1 |( Aα_2 |…|Aα_n )| β_1 | β_2 |…| β_m. <br>
+Las primeras n producciones son todas las producciones recursivas por la izquierda de A. Las restantes son todas las producciones de A que no son recursivas por la izquierda. <br>
+Podemos reemplazar las anteriores producciones por las siguientes que no son recursivas por la izquierda. <br>
+A→β_1 |( β_2 |…| β_n )| β_1 Z | β_2 Z |…| β_m Z. <br>
+A→α_1 |( α_2 |…| α_n )| α_1 Z | α_2 Z |…| α_m Z. <br>

@@ -1,0 +1,6 @@
+1. Título: Características y Clasificación Gramáticas libres del contexto (GLC).<br><br>
+ Texto:<br>
+G = {V,T,P,S}.<br>
+V={Símbolos no terminales} Ejemplo: las letras mayúsculas. Con ellas se construyen formulas, variables definidas, estructuras de control. <br>
+T={Símbolos terminales} Ejemplo: operadores, símbolos de puntuación, los dígitos, palabras reservadas.<br>
+Los símbolos terminales son los componentes léxicos de nuestro lenguaje de programación. Son el alfabeto, con los cuales se forman las cadenas o palabras.<br>

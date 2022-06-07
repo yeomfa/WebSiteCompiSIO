@@ -1,0 +1,6 @@
+197: Título: Ejemplo notación BNF.<BR><BR>
+Imagen texto.<BR>
+8. '<'ListaSentencias'>' ::=.<BR>
+            '<'ListaSentencias'>'.<BR>
+            '<'Sentencia'>'|.<BR>
+            '<'Sentencia'>'.<BR>

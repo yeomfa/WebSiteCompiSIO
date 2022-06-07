@@ -1,0 +1,8 @@
+194: Título: Ejemplo notación BNF.<BR><BR>
+Imagen texto.<BR>
+5. '<'Letra'>'::=.<BR>
+“A” | “B”| … |“ Z”| ”a” |”b” | … | “z”.<BR>
+6. '<'Identificador'>'::=.<BR>
+'<'Identificador'>'<'Letra'>'.<BR>
+'<'Identificador'>'<'Digito'>' |.<BR>
+'<'Letra'>'.<BR>

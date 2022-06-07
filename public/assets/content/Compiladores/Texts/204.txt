@@ -1,0 +1,8 @@
+204: Título: Ejemplo notación BNF.<BR><BR>
+Imagen texto.<BR>
+15. '<'Expresión'>'::=.<BR>
+	'<'Expresión'>' “+” '<'Término'>' |.<BR>
+	'<'Término'>'.<BR>
+16.'<'SentenciaAsignación'>' ::=.<BR>
+	'<'Identificador'>':= '<'Expresión'>'.<BR>
+a = (b+c)^* d.<BR>

@@ -1,0 +1,7 @@
+54. Análisis sintáctico por descenso recursivo. <br><br>
+Imagen texto: <br>
+AP : i c l f n d n p l o b $.<br>
+Nodo Activo: b. <br>
+Acción: coinciden AP y nodo activo. Avanzar AP y seguir recorrido. <br>
+AP : i c l f n d n p l o b $.<br>
+Al fin, AP= $, indicando un análisis correcto de la palabra, con su correspondiente árbol de derivación. <br>

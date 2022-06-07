@@ -1,0 +1,8 @@
+14. Título: Características y Clasificación Gramáticas libres del contexto (GLC). <br><br>
+• Tipos de análisis sintáctico: <br>
+–	Descendentes: <br>
+    •	Con retroceso. Y con recursión. <br>
+    •	LL(1). <br>
+–	Ascendentes: <br>
+    •	Con retroceso. <br>
+    •	LR(1). <br>

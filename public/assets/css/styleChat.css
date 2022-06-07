@@ -1,5 +1,35 @@
+.name-input {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.name-input input {
+    padding-left: 10px;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid var(--colorMain);
+}
+
+.name-input input:focus {
+    outline: 1px solid var(--colorMain);
+}
+
 .title-chat{
     font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .3rem;
+}
+
+#indicator{
+    font-size: 15px;
+    color: rgb(255, 0, 0);
+}
+
+#btnDisconn i {
+    color: rgb(59, 59, 59);
 }
 
 .chat {
@@ -34,6 +64,32 @@
     height:75%;
     overflow:auto;
     box-sizing: border-box;
+}
+
+#container-connect {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+    width: 100%;
+}
+
+#container-connect button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background: var(--colorMain);
+    color: white;
+    font-size: 20px;
+    height: 30px;
+    padding: 1rem;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+#container-connect button:active{
+    background: rgb(68, 68, 68);
 }
 
 #form {

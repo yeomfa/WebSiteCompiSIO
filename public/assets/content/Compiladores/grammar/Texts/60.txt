@@ -1,0 +1,8 @@
+60. imagen texto. <br>
+Volvemos a hacer activo el nuevo nodo etiquetado con ‘a’del nivel más profundo del árbol, y comprobamos que el carácter a_2 coincide con ese terminal. Por lo tanto, actualizamos el puntero a a_3, y hacemos activo el nodo de la derecha (S), y aplicamos la primera S), —producción a partir de él. Obtenemos: <br>
+Árbol. <br>
+Nodo padre S. <br>
+Tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br
+

@@ -1,0 +1,8 @@
+71. Título: Métodos de análisis ascendente. <br><br>
+Imagen texto: <br>
+1. S-> a A B e. <br>
+2. A -> A b c | b. <br>
+3. B-> d. <br>
+Comprobaremos si la frase abbcbcde se puede reducir a S: <br>
+abbcbede -> (2) -> aAbcbcde -> (2) -> aAbcde -> (2) -> aAde ->(3) -> aABe ->(1)->S. <br>
+por el símbolo no terminal A, en ambos casos. Al finalizar este paso, se obtiene la cadena a A d e. Continuando con el proceso, aplica la reducción correspondiente con la producción B -> d, quedando a A B e. Como se puede observar, para terminar con el proceso de análisis, queda aplicar la reducción de la producción S -> a AB e, correspondiente con el símbolo inicial de la gramática, por lo que se finaliza con éxito el proceso de análisis. <br>

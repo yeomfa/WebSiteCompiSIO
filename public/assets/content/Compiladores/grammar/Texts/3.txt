@@ -1,0 +1,9 @@
+3. Título: Características y Clasificación Gramáticas libres del contexto (GLC). <br><br>
+Tienen derivación. <br>
+ - Derivación más a la izquierda. <br>
+ - Derivación más a la derecha. <br>
+Ejemplo: <br>
+Imagen: <br>
+S -> | num |(S) | S+S | -S |S*S | S/S | S-S |.<br>
+Si queremos derivar la frase: -(id + num). <br>
+

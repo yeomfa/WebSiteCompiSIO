@@ -1,0 +1,4 @@
+224. Título: Factorización a izquierda. <br><br>
+En general, dos producciones de la forma A→βα_1 | βα_2. Son equivalentes a las producciones: <br>
+A→βB. <br>
+B→ α_1 |α_2. <br>

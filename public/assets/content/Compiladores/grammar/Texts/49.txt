@@ -1,0 +1,20 @@
+49. Análisis sintáctico por descenso recursivo. <br><br>
+Imagen texto: <br>
+Nodo Activo: i. <br>
+Acción: AP y nodo activo no coinciden. Retrocede un nivel. No hay más producción para S. Retrocede un nivel. Generar hijos para G con la producción G -> H. <br>
+Árbol: <br>
+S nodo padre.(tiene 6 nodos hijos). <br>
+Hijo1: i, hijo2: c, hijo3: A, hijo4: d, hijo5: F, hijo6: B. <br>
+Hijo3: A tiene 3 hijos. <br>
+Hijo1: C, hijo2: D, hijo3: C. <br>
+Hijo1: C, tiene 1 hijo. <br>
+hijo1: E, el cual tiene 1 hijo(hijo1: I). <br>
+hijo2: D tiene 1 hijo(hijo1: f). <br>
+hijo3: C tiene 1 hijo(hijo1: n). <br>
+Hijo5: F tiene 3 hijos(hijo1:G, hijo2: o, hijo3:F’). <br>
+Hijo1: G tiene 1 hijo(hijo1: H). <br>
+Hijo1: H tiene 3 hijos(hijo1: n, hijo2: p, hijo3: E). <br>
+Hijo3: E tiene 1 hijo(hijo1: I). <br>
+Hijo3: F’ tiene 1 hijo(hijo1: F). <br>
+Hijo1: F tiene 3 hijos(hijo1: G, hijo2: o, hijo3: F’). <br>
+Hijo1: G tiene 1 hijo(hijo1: H). <br>

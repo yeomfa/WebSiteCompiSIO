@@ -1,0 +1,5 @@
+210: Título: Gramática Ambiguas y no ambiguas.<BR><BR>
+Imagen texto.<BR>
+Las gramáticas se pueden clasificar en ambiguas y en no ambiguas. Una gramática es ambigua si y solo si existen dos o más arboles distintos que derivan de la misma palabra.<BR>
+Librería con soporte o restricciones de gramáticas ambiguas.<BR>
+https://github.com/kach/nearley. <BR>

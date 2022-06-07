@@ -1,0 +1,10 @@
+61. imagen texto. <br><br>
+En el que, después de hacer nodo activo el más a la izquierda de los recientemente generados, podemos comprobar que a_3≠a , y por lo tanto rechazamos esta alternativa. Volviendo a la siguiente S —producción, expandimos nuevamente el árbol y generamos. <br>
+Árbol. <br>
+Nodo padre S. <br>
+Tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 2 hijos(hijo1: a, hijo2: S). <br>
+que tampoco va a coincidir. <br>
+
+

@@ -1,0 +1,5 @@
+24. Análisis sintáctico por descenso recursivo. <br><br>
+El analizador expandirá un nodo siempre y cuando sea un símbolo no terminal y no haya probado todas las producciones posibles para ese nodo. Si se agotan todas las posibilidades para un nodo en un nivel determinado (siempre mayor que 1), retrocederá un nivel en el árbol y seguirá expandiendo con el resto de las posibilidades (producciones). <br>
+Pues bien, como hemos comentado, el analizador comienza creando el nodo raíz con el símbolo inicial de la gramática, S. Con el fin de realizar un ejemplo lo más comprensible posible para el lector, utilizaremos la siguiente notación: <br>
+	AP. En donde tendremos la palabra de entrada a analizar. En cada momento se resaltará en negrita el símbolo de entrada apuntada por AP. <br>
+	Nodo activo. Indicamos en cada momento el nodo activo actual del árbol de derivación, teniendo en cuenta que el recorrido del árbol se hace en preorden. <br>

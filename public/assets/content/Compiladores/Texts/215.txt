@@ -1,0 +1,7 @@
+215. Título: Recursividad por la izquierda. <br><br>
+Imagen texto. <br>
+Una producción de la forma A -> Aw, donde A es un no terminal y w es una palabra, se dice que es recursiva por la izquierda. Por ejemplo, la siguiente GIC tiene tres producciones recursivas por la izquierda. <br>
+S -> Sa| AB. <br>
+A -> AbbS | A |ε. <br>
+B->c. <br>
+

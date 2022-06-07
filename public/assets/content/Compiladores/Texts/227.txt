@@ -1,0 +1,6 @@
+227. Título: Respuesta Ejercicio anterior: <br><br>
+S→αbSD. <br>
+D−> A|B bα. <br>
+A→cccE. <br>
+E→Sα|Bbb. <br>
+B→α|ε. <br>

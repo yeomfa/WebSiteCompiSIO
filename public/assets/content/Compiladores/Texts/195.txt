@@ -1,0 +1,9 @@
+195: Título: Ejemplo notación BNF.<BR><BR>
+Imagen texto.<BR>
+7. '<'Sentencia'>' ::=.<BR>
+            '<'SentenciaAsignación'>' |.<BR>
+            '<'SentenciaSi'>' |.<BR>
+            '<'SentenciaMientras'>' |.<BR>
+            '<'SentenciaPara'>' |.<BR>
+            '<'LlamadaFunción'>' |.<BR>
+            '<'SentenciaAsignación'>' |.<BR>

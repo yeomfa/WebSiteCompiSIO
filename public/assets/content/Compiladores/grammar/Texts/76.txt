@@ -1,0 +1,10 @@
+76. Título: Implementación del método por desplazamiento y reducción.<br><br>
+Imagen texto:<br>
+S ->C D C.<br>
+D -> e| f |g| |h |j |k.<br>
+C-> n| E.<br>
+E->I |m.<br>
+
+Comprobaremos si la palabra w = mhn es correcta. Para ello disponemos de dos instrucciones básicas:<br>
+1. Desplazar. El siguiente símbolo de entrada se desplaza a la cima de la pila.<br>
+2. Reducir. Consiste en sustituir el mango que se encuentra en la cima de la pila por el no terminal correspondiente.<br>

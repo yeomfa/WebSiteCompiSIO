@@ -1,0 +1,12 @@
+190:Imagen texto: <BR><BR>
+BNF son las iniciales de Backus Naur Form. John Backus y Peter Naur introdujeron esta notación para describir la sintaxis del lenguaje de programación ALGOL, alrededor de 1960.<BR>
+Los Metasímbolos de la notación se presentan en la siguiente tabla:
+Metasímbolos de la notación BNF.<BR>
+Cuadro definiciones de símbolos:<BR>
+::= Se define como.<BR>
+| O.<BR>
+<> Para delimitar categorías, es decir no terminales.<BR>
+[ ] Ítem opcional.<BR>
+“ ” Para delimitar terminales de un solo carácter. <BR>
+ Fin de cuadro.<BR>
+Texto: La notación BNF es un lenguaje para especificar lenguajes de programación de computadores, de ahí que sus símbolos de denominen más precisamente Metasímbolos.

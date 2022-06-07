@@ -1,0 +1,8 @@
+193: Título: Ejemplo notación BNF.<BR><BR>
+Imagen texto.<BR>
+4. '<'EnteroConSigno'>' ::=.<BR>
+         ['<'Signo'>']'<'EnteroSinSigno'>'.<BR>
+La notación BNF no tiene un símbolo para la cadena vacía ε. En su lugar se usan los corchetes que indican que lo contenido en ellos es opcional, es decir, que no es obligatorio usarlo en la derivación. La anterior definición corresponde en la anterior notación a:<BR>
+C -> SE.<BR>
+S -> + | - | ε .<BR>
+

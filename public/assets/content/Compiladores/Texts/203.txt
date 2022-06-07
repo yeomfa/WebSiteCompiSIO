@@ -1,0 +1,8 @@
+203: Título: Ejemplo notación BNF.<BR><BR>
+Imagen texto.<BR>
+13. '<'Factor'>' ::=.<BR>
+	“(“ '<'Expresión'>' “)” |.<BR>
+	'<'Identificador'>'.<BR>
+14. '<'Término'>' ::=.<BR>
+	'<'Término'>' “*”'<'Factor'>' |.<BR>
+	'<'Factor'>'.<BR>

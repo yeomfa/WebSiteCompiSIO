@@ -1,0 +1,9 @@
+199: Título: Ejemplo notación BNF.<BR><BR>
+Imagen texto.<BR>
+A partir de esta definición se puede derivar una sentencia como:<BR>
+   Mientras b'>'a hacer.<BR>
+                 a := a-1.<BR>
+                 b := b+1.<BR>
+    Fin mientras.<BR>
+
+

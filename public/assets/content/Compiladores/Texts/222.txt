@@ -1,0 +1,3 @@
+222. Título: Ejercicio 3: <br><br>
+Aplique el procedimiento de eliminar la recursividad por la izquierda a la siguiente gramática. <br>
+E -> E * a|b. <br>

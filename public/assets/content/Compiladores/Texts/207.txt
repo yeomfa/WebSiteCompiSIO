@@ -1,0 +1,11 @@
+207: Título: Ejercicios.<BR><BR>
+Imagen texto.<BR>
+'<'Identificador'>' ::= '<'Identificador'>' '<'Minúscula'>' |.<BR>
+'<'Minúscula'>' ::=  “a" |"b" |”c”|... | "z".<BR>
+'<'Mayúscula'>' ::=  “A" |"B" |”C”|... | "Z".<BR>
+Según la anterior BNF, responda V o F a las siguientes afirmaciones.<BR>
+a. Abcabccba es un identificador válido   ______.<BR>
+b. AB es un identificador válido          ______.<BR>
+c. AB a es un identificador válido        ______.<BR>
+d. A es un identificador válido           ______.<BR>
+e. aA es un identificador válido          ______.<BR>

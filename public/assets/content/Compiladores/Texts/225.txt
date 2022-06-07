@@ -1,0 +1,5 @@
+225. Título: Ejemplo. <br><br>
+A -> Bbc α |BbcBC. <br><br>
+
+A-> BbcD. <br>
+D -> α|Bc. <br>

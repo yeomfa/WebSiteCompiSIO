@@ -1,0 +1,6 @@
+9. Título: Características y Clasificación Gramáticas libres del contexto (GLC). <br><br>
+•	Verificar si es ambigua o no. <br>
+Imagen: <br>
+<orden> -> if (<comparación>) <orden> end. <br>
+	| if (<comparación>)<orden> else <orden> end. <br>
+	| <otras_órdenes>;<br>

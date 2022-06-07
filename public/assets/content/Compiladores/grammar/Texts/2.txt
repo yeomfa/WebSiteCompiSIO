@@ -1,0 +1,3 @@
+2. Título: Características y Clasificación Gramáticas libres del contexto (GLC). <br><br>
+P={Reglas de producción. <br>
+S= Variable inicial de la gramática. <br>

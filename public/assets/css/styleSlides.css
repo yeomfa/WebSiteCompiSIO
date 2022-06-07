@@ -44,7 +44,7 @@ body a {
     padding: 0 2rem;
 }
 
-.content-header span {
+.content-header .text-logo {
     color: white;
     font-size: 30px;
     text-decoration: underline;
@@ -240,32 +240,4 @@ body a {
 
 #result button {
     border: none;
-}
-
-/**** SCROLL ****/
-
-body::-webkit-scrollbar {
-    -webkit-appearance: none;
-}
-
-body::-webkit-scrollbar:vertical {
-    width:10px;
-}
-
-body::-webkit-scrollbar-button:increment,body::-webkit-scrollbar-button {
-    display: none;
-} 
-
-body::-webkit-scrollbar:horizontal {
-    height: 10px;
-}
-
-body::-webkit-scrollbar-thumb {
-    background-color: var(--colorMain);
-    border-radius: 20px;
-    border: 2px solid #ffffff;
-}
-
-body::-webkit-scrollbar-track {
-    border-radius: 10px;  
 }

@@ -1,0 +1,6 @@
+191: Título: Notación BNF.<BR><BR>
+Imagen texto:<BR><BR>
+Ejemplo:<BR>
+La siguiente gramática, en notación BNF, especifica la sintaxis de un lenguaje de programación hipotético, muy limitado, por cierto. El lenguaje tiene palabras reservadas en español y utiliza como operador de asignación :=, como lo hace el lenguaje Pascal.<BR>
+1. '<'Dígito'>' ::=“0" | “1” | “2% | “3" |“9”.<BR>
+Note la correspondencia con la notación que se ha venido usando en el texto: D->0/1/213|.../9. Al no terminal le corresponde una categoría que va entre paréntesis angulares. Al signo se define como (::=) le corresponde el signo se compone de (->). Los terminales de.<BR>

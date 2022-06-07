@@ -1,0 +1,11 @@
+214. Título: Respuesta ejercicio. <br><br>
+Árbol1. <br>
+X tiene 3 hijos ( hijo1: X, hijo2: + hijo3: T). <br>
+Hijo1: X, tiene un hijo(hijo1: T). <br>
+Hijo1: T, tiene un hijo(hijo1: a). <br>
+Hijo3: T, tiene un hijo (hijo1: a). <br>
+Árbol2. <br>
+X tiene 3 hijos ( hijo1: T, hijo2: + hijo3: X). <br>
+Hijo1: T, tiene un hijo (hijo1: a). <br>
+Hijo3: X, tiene un hijo(hijo1: T). <br>
+Hijo1: T, tiene un hijo(hijo1: a). <br>

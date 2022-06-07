@@ -1,0 +1,12 @@
+212. Título: Ejercicios. <br><br>
+Demostrar que son ambiguas las siguientes gramáticas. <br>
+1)	S -> A|B. <br>
+      A -> aA | a. <br>
+      B -> Bb | a. <br>
+
+2)	S -> A|B. <br>
+      A -> aaA | aa. <br>
+      B -> aaaB | aaa. <br>
+
+3)    E -> E + E | E * E | I. <br>
+      I -> a | b | c. <br>

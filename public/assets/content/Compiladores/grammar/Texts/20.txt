@@ -1,0 +1,12 @@
+20 . Análisis sintáctico por descenso recursivo. <br><br>
+Imagen. <br>
+S -> i c A d F B. <br>
+B -> b | a F b. <br>
+A -> C DC. <br>
+D -> e | f | g |h |j |k. <br>
+C ->n|E. <br>
+E -> l | m. <br>
+F -> G o F’. <br>
+F’ -> F |ε. <br>
+G -> S | H. <br>
+H -> n p E. <br>

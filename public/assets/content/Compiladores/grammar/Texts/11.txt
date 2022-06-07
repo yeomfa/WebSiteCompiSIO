@@ -1,0 +1,7 @@
+11. Título: Características y Clasificación Gramáticas libres del contexto (GLC).<br>
+Sabemos que debemos eliminar la recursividad por la izquierda para analizadores descendente recursivos.<br>
+Imagen:<br>
+A →A∝| β.<br>
+A → βA^'.<br>
+A^'→ ∝|∝A^'.<br>
+

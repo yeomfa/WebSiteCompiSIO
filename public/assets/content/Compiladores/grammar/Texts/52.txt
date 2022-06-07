@@ -1,0 +1,5 @@
+52. Análisis sintáctico por descenso recursivo. <br><br>
+Imagen texto: <br>
+AP : i c l f n d n p l o b $.<br>
+Nodo Activo: ε. <br>
+Acción: Seguir recorrido. <br>

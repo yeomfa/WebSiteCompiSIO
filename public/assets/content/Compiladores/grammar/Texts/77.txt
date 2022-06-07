@@ -1,0 +1,36 @@
+77. Título: Implementación del método por desplazamiento y reducción.<br><br>
+Imagen de cuadro:<br>
+Contiene 3 columnas.<br>
+Columna1.<br>
+Pila:<br>
+$.<br>
+$m.<br>
+$E.<br>
+$C.<br>
+$Ch.<br>
+$CD.<br>
+$CDn.<br>
+$CDC.<br>
+$S.<br>
+Columna 2.<br>
+Entrada:<br>
+mhn$.<br>
+hn$.<br>
+hn$.<br>
+hn$.<br>
+n$.<br>
+n$.<br>
+$.<br>
+$.<br>
+$.<br>
+Columna 3:<br>
+Acción:<br>
+Desplazar.<br>
+Reducir E->m.<br>
+Reducir C -> E<br>
+Desplazar.<br>
+Reducir D->h.<br>
+Desplazar.<br>
+Reducir C->n.<br>
+Reducir S ->C D C.<br>
+Aceptar. <br>

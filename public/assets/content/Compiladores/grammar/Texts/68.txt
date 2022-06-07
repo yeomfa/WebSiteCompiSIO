@@ -1,0 +1,3 @@
+68. Título: Métodos de análisis ascendente. <br><br>
+Texto: <br>
+El análisis por desplazamiento y reducción consiste en construir un árbol de análisis sintáctico para una cada de entrada, que se construirá desde los nodos hojas del árbol hasta el nodo raíz. En el caso de que la palabra en cuestión este bien construida. <br>

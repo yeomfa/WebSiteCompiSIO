@@ -1,0 +1,6 @@
+59. imagen texto. <br><br>
+Ahora hacemos que el nodo activo sea el etiquetado como ‘a’. Dado que a_1 = a, avanzamos el apuntador que pasa ahora a señalar a a_2. Hacemos nodo activo a S (i.e. el que se encuentra inmediatamente a la derecha de a) y aplicamos la primera S—producción, obteniendo el árbol parcial siguiente: <br>
+Árbol. <br>
+Nodo padre S. <br>
+Tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>

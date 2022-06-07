@@ -1,0 +1,4 @@
+69. Título: Métodos de análisis ascendente. <br><br>
+Texto: <br>
+Subtitulo: Resumen del algoritmo: <br><br>
+En resumen, la idea básica es ir reduciendo la cadena de entrada de la siguiente forma: el analizador buscará una subcadena en la entrada que coincida con la parte derecha de una producción de la gramática, Una vez encontrada, sustituirá dicha subcadena por la parte izquierda de la producción. Si en cada paso se elige correctamente cada sustitución y la palabra está correctamente formada, se llegará finalmente al símbolo inicial de la gramática. <br>

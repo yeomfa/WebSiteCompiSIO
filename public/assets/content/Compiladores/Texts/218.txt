@@ -1,0 +1,12 @@
+218. Título: Ejemplo. <br><br>
+Hay dos párrafos. <br>
+Parrafo1. <br>
+S -> Sa| AB. <br>
+A -> AbbS | A |ε. <br>
+B->c. <br>
+Parrafo2. <br>
+S -> AB | ABZ. <br>
+Z -> α | αZ . <br>
+A -> ε | Z'.<br>
+Z’ -> bbS | b |bbsZ’ |bZ’. <br>
+B -> c. <br>

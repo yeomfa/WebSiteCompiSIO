@@ -1,0 +1,7 @@
+64. imagen texto. <br><br>
+Ahora la etiqueta del nuevo nodo activo coincide con el último símbolo, a_5de w. Hemos hecho un reconocimiento de la cadena completa, sin embargo, aún quedan bS: este camino no es el correcto. <br>
+
+Se vuelve a recuperar como nodo activo al padre, pero no existen más alternativas. Como es el que está más a la derecha, tenemos que recuperar como activo a su padre. <br>
+
+Al llegar a b, en profundidad inmediatamente por debajo de la raíz el apuntador referencia a a_2, y el nodo etiquetado con la primera Sde derecha a izquierda es nuevamente el activo.
+Elegimos la siguiente opción para S y obtenemos el árbol. <br>

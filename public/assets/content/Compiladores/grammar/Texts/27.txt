@@ -1,0 +1,6 @@
+27. Análisis sintáctico por descenso recursivo. <br><br>
+Imagen Texto: <br>
+Iniciamos AP y empieza el análisis: <br>
+AP: i c l f n d n p l o b $.<br>
+Nodo activo: S. <br>
+Acción: Generar nodo inicial S. <br>

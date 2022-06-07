@@ -23,6 +23,25 @@ body a {
     font-family: "Roboto Condensed", sans-serif;
 }
 
+/**** HEADER ***/
+
+#back-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    cursor: pointer;
+}
+
+#back-slide i {
+    font-size: 25px;
+    transition: 0.2s;
+}
+
+#back-slide:hover i{
+    font-size: 35px;
+}
+
 /**** MAIN ****/
 
 .container-main-tool {
@@ -164,6 +183,7 @@ body a {
 .view {
     box-shadow: 0px 0px 15px -10px black;
     width: 100%;
+    height: 420px;
 }
 
 .container-description {
@@ -176,8 +196,9 @@ body a {
 }
 
 .title-description {
-    padding-top: .7rem;
-    font-size: 20px;
+    height: 10%;
+    font-size: 25px;
+    border-bottom: 1px solid #cacaca;
 }
 
 .content-description {
@@ -187,46 +208,8 @@ body a {
 }
 
 #text {
-    margin: .5rem auto;
     height: 90%;
-    overflow: auto;
-    border-radius: 5px;
-    box-sizing: border-box;
-    border: 1px solid #aaa;
-    background: whitesmoke;
-    padding:0 1rem;
-}
-
-#result button {
-    border: none;
-}
-
-/**** SCROLL ****/
-
-#text::-webkit-scrollbar {
-    -webkit-appearance: none;
-}
-
-#text::-webkit-scrollbar:vertical {
-    width:10px;
-}
-
-#text::-webkit-scrollbar-button:increment,#text::-webkit-scrollbar-button {
-    display: none;
-} 
-
-#text::-webkit-scrollbar:horizontal {
-    height: 10px;
-}
-
-#text::-webkit-scrollbar-thumb {
-    background-color: var(--colorMain);
-    border-radius: 20px;
-    border: 2px solid #ffffff;
-}
-
-#text::-webkit-scrollbar-track {
-    border-radius: 10px;  
+    overflow: hidden;
 }
 
 #no-text {

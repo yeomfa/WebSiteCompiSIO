@@ -1,0 +1,5 @@
+74. Título: Implementación del método por desplazamiento y reducción. <br>
+Imagen texto: <br>
+1. Descubrir el mango que debe sustituirse. Es decir, elegir entre desplazar un símbolo de entrada, si no se ha descubierto el mango, o pasar a reducir una subcadena. <br>
+
+2. Cómo determinar qué producción elegir, en caso de que haya más de una producción con dicha subcadena en el lado derecho; o, lo que es lo mismo, elegir qué no terminal debe sustituir al mango una vez descubierto. <br>

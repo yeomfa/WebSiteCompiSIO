@@ -1,0 +1,9 @@
+73. Título: Métodos de análisis ascendente. <br>
+Imagen texto: <br>
+Elementos que intervienen en el proceso. <br>
+Definición 5.19 (poda). Utilizando la poda de mangos se puede obtener una derivación por la derecha en orden inverso. Es decir, comenzando con una cadena de terminales w que se desee analizar sintácticamente. Si esta cadena es una frase de la gramática, entonces w= Υ_n, donde Υ_n es la n-estima forma de frase derecha de una aún desconocida derivación por la derecha. Es decir: <br>
+
+S=Υ_0→ Υ_1→ Υ_2→ *…→ Υ_n= w <br>
+Pues bien, para la reconstrucción de una derivación de este tipo en orden
+inverso, podemos aplicar a Υ_n  el mango β_nde tal forma que sustituiremos dicho
+mango por el lado izquierdo de la producción que lo contenga. <br>

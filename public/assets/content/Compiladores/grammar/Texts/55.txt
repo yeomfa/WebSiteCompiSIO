@@ -1,0 +1,3 @@
+55. Análisis sintáctico por descenso recursivo. <br>
+Análisis sintáctico Descendente con Retroceso. <br>
+Parte del axioma inicial y aplica todas las posibles reglas al no terminal más a la izquierda. Usan AP no determinista. <br>

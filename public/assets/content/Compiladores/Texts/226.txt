@@ -1,0 +1,5 @@
+226. Título: Ejercicio 1. <br><br>
+Aplique el procedimiento de factorización a izquierda a la siguiente gramática. <br>
+S→αbSA | αbSBbα. <br>
+A→cccSα | cccBbb. <br>
+B→ α|ε. <br>

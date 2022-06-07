@@ -1,0 +1,8 @@
+7. Título: Características y Clasificación Gramáticas libres del contexto (GLC). <br><br>
+Imagen de un árbol. <br>
+S nodo padre (Tiene 3 hijos). <br>
+Hijo1 S(tiene 3 hijos) hijo1 “(”.<br>
+hijo2 S, (tiene 3 hijos) hijo1 S el cual tiene un hijo “id”, hijo2 “+”, hijo3 el cual tiene un hijo “num”. <br>
+hijo3 “)”.<br>
+Hijo2 “*”.<br>
+Hijo3 tiene un hijo id. <br>

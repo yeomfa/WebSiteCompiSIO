@@ -1,0 +1,4 @@
+65. imagen árbol. <br><br>
+Nodo padre S. <br>
+Tiene 4 hijos(hijo1: a, hijo2: S, hijo3: b, hijo4: S). <br>
+Hijo2: S tiene 2 hijos(hijo1: a, hijo2: S). <br>

@@ -1,0 +1,6 @@
+26. Análisis sintáctico por descenso recursivo. <br><br>
+   	Si en el recorrido del árbol llegamos a un nodo activo, etiquetado con un terminal, y coincide con el valor apuntado por AP, avanza AP una posición a la derecha y se sigue el recorrido en preorden. <br>
+   	Si en el recorrido del árbol llegamos a un nodo activo, etiquetado con un terminal, y este no coincide con AP, entonces elimina los nodos correspondientes y retrocede un nivel, es decir, el nodo activo pasa a ser el padre del nodo en cuestión. <br>
+
+   	Aceptar. Esta acción se realizará cuando AP = $ e indica el final correcto del análisis. <br>
+   	Error. Esta acción se realizará cuando el nodo activo sea el símbolo de inicio de la gramática y no esté en la primera iteración del algoritmo. <br>

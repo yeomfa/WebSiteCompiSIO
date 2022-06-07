@@ -1,0 +1,9 @@
+211. Título: Ejemplo Gramática ambigua.<br><br>
+Ejercicio: <br>
+La siguiente GIC es ambigua. <br>
+S -> A|B. <br>
+A -> Aa | a. <br>
+B -> bB | a. <br>
+Los arboles diferentes que derivan la misma palabra son: <br>
+S “raya hacia abajo” A “raya hacia abajo” a. <br>
+S “raya hacia abajo” B “raya hacia abajo” a. <br>

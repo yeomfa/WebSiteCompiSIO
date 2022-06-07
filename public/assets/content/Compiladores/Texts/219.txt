@@ -1,0 +1,18 @@
+219. Título: Ejercicios: <br><br>
+1) Aplique el procedimiento de eliminar recursividad por la izquierda a la siguiente GIC. <br>
+¿Cuál es la GIC resultante? <br>
+S -> Sa | Sbcd | ab | c. <br>
+
+A. S->ab|c|c | cz. <br>
+     Z -> a| bcd | az | bcdZ. <br>
+
+B. S -> a| bcd | aZ | bcdZ.<br>
+     Z ->ab|c|abz | cZ. <br>
+
+C. S ->ab]c|Z. <br>
+    Z -> a| bcd | aZ | bcdZ. <br>
+
+D. S ->ab |c | abZ | cZ. <br>
+     Z -> a | Sbcd | SaZ | SbcdZ. <br>
+
+E. S -> a |bcd |ab |c. <br>

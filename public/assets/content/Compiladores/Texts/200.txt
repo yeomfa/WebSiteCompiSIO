@@ -1,0 +1,9 @@
+200: Título: Ejemplo notación BNF.<BR><BR>
+Imagen texto.<BR>
+10. '<'SentenciaSi'>' ::=.<BR>
+	Si '<'Condición'>' entonces.<BR>
+		'<'ListaSentencias'>'.<BR>
+	[sino.<BR>
+		'<'ListaSentencias'>'].<BR>
+	Fin si.<BR>
+

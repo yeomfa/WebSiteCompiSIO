@@ -1,0 +1,5 @@
+17. Título: Análisis sintáctico por descenso recursivo. <br><br>
+Ejemplo: <br>
+W = if (123< nu). <br>
+          Un:= 500; <br>
+        End. <br>

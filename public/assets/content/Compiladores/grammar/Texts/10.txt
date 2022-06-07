@@ -1,0 +1,7 @@
+10. Título: Características y Clasificación Gramáticas libres del contexto (GLC). <br>
+  • Una solución posible: <br>
+<orden> -> if (<comparación>) <orden> <sig_orden>.<br>
+  | <otras_órdenes>;<br>
+	<sig_orden> -> end. <br>
+		          | else <orden> end. <br>
+

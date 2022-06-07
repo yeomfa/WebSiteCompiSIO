@@ -1,0 +1,2 @@
+6. Título: Características y Clasificación Gramáticas libres del contexto (GLC).<br><br>
+Derive por izquierda a: (id+num)*id.<br>
