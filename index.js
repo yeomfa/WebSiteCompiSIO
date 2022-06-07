@@ -5,6 +5,8 @@ const server = http.createServer(app);
 const { Server } = require("socket.io");
 const io = new Server(server);
 
+require('dotenv').config();
+
 app.use(express.static('public'));
 
 app.get('/', (req, res) => {
@@ -17,6 +19,6 @@ io.on('connection', (socket) => {
     });
 });
 
-server.listen(3000, () => {
-  console.log('listening on *:3000');
+server.listen(process.env.PORT, () => {
+  console.log(`listenin on * ${process.env.PORT}`);
 });
