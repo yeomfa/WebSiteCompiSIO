@@ -11,6 +11,15 @@ var bandId = 0;
 $("#result").hide();
 $("#main-tool").hide();
 $("#back-slide").hide();
+$('#photos-profile').hide();
+
+$('#icon-compilab-footer').click(function(){
+    $('#photos-profile').show();
+});
+
+$('#close-photos').click(function(){
+    $('#photos-profile').hide();
+});
 
 //Buscar por número
 num_2.addEventListener('keyup', (event) => {

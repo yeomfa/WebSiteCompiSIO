@@ -241,3 +241,65 @@ body a {
 #result button {
     border: none;
 }
+
+/**** PHOTOS PROFILE ****/
+
+.photos-profile{
+    padding: 1rem;
+    background: white;
+    border-radius: 15px;
+    border: 2px solid var(--colorMain);
+    width: 450px;
+    position: absolute;
+    top: 820px;
+    left: 30.5%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 1rem;
+}
+
+#icon-compilab-footer{
+    cursor: pointer;
+}
+
+.c-container-photos {
+    display: flex;
+    gap: 1rem;
+}
+
+.container-photo {
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    border: 2px solid var(--colorMain);
+    overflow: hidden;
+}
+
+.photos-profile img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.close-photos {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.close-photos i {
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.container-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: .5rem;
+}
+
+.close-photos span{
+    font-size: 20px;
+}
