@@ -14,14 +14,18 @@ app.get('/', (req, res) => {
 });
 
 io.on('connection', (socket) => {
+  let name = '';
     socket.on('chat message', (msg) => {
-      io.emit('chat message', msg);
+        io.emit('chat message', msg);
+        name = msg.name;
     });
+
     socket.on('disconnect', () => {
-      console.log('user disconnected');
+      io.emit('chat message', {name: name, message:'outUser'});
     });
+
 });
 
 server.listen(process.env.PORT, () => {
-  console.log(`listenin on * ${process.env.PORT}`);
+  console.log(`listening on * ${process.env.PORT}`);
 });

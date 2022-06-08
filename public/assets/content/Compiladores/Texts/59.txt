@@ -1,0 +1,7 @@
+59. Título: Algunas definiciones básicas. <br> <br>
+•	Longitud de una palabra o cardinal: corresponde al número de letras que la componen. La longitud de la palabra x se representa así: |x|.<br>
+Ejemplo: |juan| = 4. <br>
+       |1| = 1. <br>
+       |12345678|=8. <br>
+
+•	Universo del discurso o lenguaje universal o Cerradura de estrella: conjunto de todas las palabras que se pueden construir con los símbolos de un alfabeto. Se representa por Σ*.<br>

@@ -1,0 +1,5 @@
+101. Título: Proponga el diagrama de transición de las siguientes expresiones regulares. <br> <br>
+1)	a. <br>
+2)	ab.<br>
+3)	ab*.<br>
+4)	a*b*.<br>

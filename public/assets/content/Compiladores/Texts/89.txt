@@ -1,0 +1,14 @@
+89. Título: Abreviatura expresiones regulares. <br> <br>
+1.- Una o más repeticiones: +<br>
+R ^+ = r r*.<br>
+2.- Un rango de caracteres: [] (clase). <br>
+[a-z] → Indica cualquier carácter entre la a y la z minúsculas. <br>
+[a-zA-Z] → Indica cualquier letra del abecedario, minúscula o mayúscula. <br>
+[0-9] → Indica cualquier dígito entre 0 y 9. <br>
+(abc] → Indica a | b | c. <br>
+3.- Cualquier carácter excepto un conjunto dado: <br>
+~(a|b) → Indica cualquier carácter que no sea una a o una b. <br>
+4.- Opcionalidad: ? <br>
+r? → Indica que la expresión r puede aparecer o no. En el caso de que aparezca solo lo hará una vez. <br>
+En el caso de que queramos usar los símbolos que acabamos de ver con su significado (no con el que les aporta la simbología), tenemos que usar la barra de escape. <br>
+[a\-z] → Indica cualquier letra que sea a, guión o z. <br>

@@ -1,0 +1,16 @@
+263:Título: Solución Ejemplo. <br>
+Hay dos párrafos. <br>
+Párrafo 1. <br>
+i. 	B -> ε. <br>
+      F -> ε. <br>
+ii.	N = {B, F}.<br>
+iii.	E -> BF. <br>
+iv.	N ={B, F, E}.<br>
+iii.  S -> FEB. <br>
+iv.   N={B, F, E, S}.<br>
+Párrafo 2. <br>
+i.	Se seleccionan las producciones de la forma x -> ε. <br>
+ii.	Se inicializa el conjunto N con los no terminales de la izquierda del signo -> de las producciones seleccionadas en el paso I. <br>
+iii.	Se seleccionan las producciones x -> w no seleccionadas antes tales que w ∈ N'. <br>
+iv.	Se agregan al conjunto N los no terminales no agregados antes que estén a la izquierda del signo -> de las producciones seleccionadas en el paso 3. <br>
+v.	Se repiten los pasos III y IV, hasta que en el paso III no se seleccionen nuevas producciones o, en el paso IV no se agreguen nuevos no terminales. <br>

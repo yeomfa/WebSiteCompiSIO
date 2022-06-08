@@ -1,0 +1,5 @@
+255. Título: Algoritmo eliminación de símbolos no alcanzables. <br>
+i.	Inicialice el conjunto N' = (S). <br>
+ii.	Selecciones las producciones x -> w tales que X ∈ N'. <br>
+ii.	Agregue a N' los no terminales a la derecha del signo - > de las producciones seleccionadas anteriormente y que no se encuentren previamente en N'. <br>
+iv.	Selecciones las producciones x -> w tales que X ∈ N' y que no hayan sido seleccionadas previamente. <br>

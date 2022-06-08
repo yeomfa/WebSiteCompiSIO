@@ -1,0 +1,2 @@
+240. Título: Gramática propuesta . <br><br>
+S -> aSa | a. <br>

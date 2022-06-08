@@ -1,0 +1,12 @@
+22. Título: Arquitectura Microsoft.<br> <br>
+Imagen diagrama. <br>
+ Hay una primera columna la cual se llama (Source code). <br>
+Tiene 3 cuadros los cuales señalas a la segunda columna. <br>
+El primer cuadro se llama (C#) señala con una línea la cual se dice (C# compiler). <br>
+El segundo cuadro se llama (VB.NET) señala con una línea que dice (VB.NET compiler). <br>
+El tercer cuadro se llama (Other. NET lenguage) señala con una línea que dice(Other compiler). <br>
+La segunda columna (Bytecode). <br>
+Tiene un solo cuadro que se llama(MSIL code) que señala hacia la 3 columna que dice(CLR) <br>
+La tercera columna (Native code). <br>
+Tiene un texto que dice (Native code). <br>
+Al final hay una línea que esta dividia en dos una parte esta de la primera columna hasta la mitad de la segunda columna y la otra parte empieza ahí mismo hasta el native code. <br>

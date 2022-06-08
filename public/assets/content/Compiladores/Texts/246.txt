@@ -1,0 +1,8 @@
+246. Título: Ejemplo: No terminales que no derivan cadenas de solo terminales. <br><br>
+S -> aS| aA | b. <br>
+A -> aA | bA. <br>
+Se observa que no se puede derivar una cadena de solo terminales a partir de A. <br>
+A => aA => abA…<br>
+Lo anterior ocasiona que tres producciones de la gramática no aporten nada. Estas producciones se pueden omitir, La gramática simplificada queda. <br>
+S ->aS|b. <br>
+

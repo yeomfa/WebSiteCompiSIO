@@ -1,0 +1,9 @@
+43. Título: La arquitectura de Software. <br> <br>
+Diagrama 1<br>
+MVC<br>
+View señala al model y a controller . <br>
+Controller señala a model y a View. <br>
+Diagrama 2.<br>
+MVP. <br>
+View señala al presentar . <br>
+Y presentar señala a view y a model. <br>

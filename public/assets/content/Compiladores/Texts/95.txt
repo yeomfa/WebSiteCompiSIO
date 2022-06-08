@@ -1,0 +1,3 @@
+95. Título: Jerarquía de máquinas abstractas. <br> <br>
+Imagen de como funciona internamente una maquina abstractas. <br>
+Máquina de secuencia pasa al autómata finito tiene dos salidas una al autómata de pila en el cual se incorpora una memoria de pila(life), y la otra salida al Autómata finito Bidireccional(se permite el movimiento del cabezal en dos sentidos), luego pasa al autómata linealmente acotado(se incorpora la capacidad de grabar sobre la cinta de entrada, que esta acotada), al final pasa a la máquina de Turing(se liberan los extremos de la cinta, que es ahora infinita). <br>

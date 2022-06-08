@@ -1,0 +1,8 @@
+70. Título: Operación potencia. <br> <br>
+Ejemplos: <br>
+L_1= { λ, ab, ac}. <br>
+=>L_1^2= { λ,ab,ac, abab,abac, acab, acac}.<br>
+=> L_1^3={ λ ab,ac, abab, abac, acab, acac,ababab,ababac,abacab,abacac, acabab,acabac,acacab,acacac}.<br>
+L_2= {a, aa, aaa, ...} . <br>
+=> L_2^2=¿?.<br>
+=> L_2^3=¿?.<br>

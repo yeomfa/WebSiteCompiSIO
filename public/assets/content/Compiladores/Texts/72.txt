@@ -1,0 +1,11 @@
+72. Título: Clausura de un lenguaje. <br> <br>
+Imagen: <br>
+Definición (Clausura positiva): <br>
+• La clausura positiva de un lenguaje L se define por: <br>
+L =⋃_(i=1)^∞▒L^i∶ . <br>
+ L ={a,aa, aaa, aaaa,...} = {a^n | n≥1}.<br>
+=> L_2={ aa, aaa, aaaa…} = { ├ a^n a^m ┤|n,m≥2  } = {├ a^n ┤|n≥2}.<br>
+=> L_3={ aaa, aaaa, ...} = { ├ a^n a^m ┤|n≥1,m≥2  } = {├ a^n ┤|n≥3}.<br>
+=>L =⋃_(i=1)^∞▒〖 L^i 〗: {a,aa, aaa, aaaa,...}=L. <br>
+Σ ={a,b), Σ  es un lenguaje sobre Σ ,ya que  Σ ⊆W(Σ) . <br>
+Σ+=⋃_(i=1)^∞▒〖 Σ^i 〗 ={a,b,aa, ab, ba,bb,aaa....} = W(Σ) - { λ  }.<br>

@@ -1,0 +1,5 @@
+248. Título: Algoritmo para simplificar gramáticas. <br><br>
+V.         Repita los pasos iii y iv hasta que no se pueden seleccionar nuevas producciones o agregar
+            nuevos no terminales a N'. <br>
+Vi.       Escriba la gramática simplificada, la cual consta de las producciones seleccionadas en los 
+            pasos i y iii. <br>

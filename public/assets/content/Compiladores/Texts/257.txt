@@ -1,0 +1,9 @@
+257. Título: Ejemplo. <br><br>
+Apliquemos el algoritmo de suprimir producciones que no se puedan usar a la siguiente gramática. <br>
+S -> aE | bF. <br>
+A -> aA | C. <br>
+B -> aB | a. <br>
+C -> aD | b. <br>
+D -> aA | aC. <br>
+E -> aE | bE. <br>
+F -> FB |b. <br>

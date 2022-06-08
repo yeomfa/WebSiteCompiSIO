@@ -1,0 +1,5 @@
+247. Título: Algoritmo para simplificar gramáticas Caso 1: <br><br>
+i.	Seleccione las producciones x > w, tales que w ∈ Σ. <br>
+ii.	Inicialice el conjunto N' con los no terminales de la izquierda del signo -> de las producciones seleccionadas en el paso i. <br>
+iii.	Seleccione las producciones x -> w no seleccionadas anteriormente, tales que w ∈(N^'∪Σ). <br>
+iv.	Agregue al conjunto N' los no terminales de la izquierda del signo -> de las producciones seleccionadas en el paso Ill. <br>

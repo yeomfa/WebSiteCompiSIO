@@ -1,0 +1,4 @@
+38. Título: Ventajas de los compiladores frente a los intérpretes. <br> <br>
+•	Solo se compilan una vez. <br>
+•	Ejecución más rápida. <br>
+•	Optimización de código. <br>

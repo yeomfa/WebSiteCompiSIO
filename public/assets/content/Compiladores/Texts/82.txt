@@ -1,0 +1,2 @@
+82. Título: Expresiones regulares. <br> <br>
+Una manera más sencilla de representar a los lenguajes regulares consiste en suprimir las llaves. Consideremos por ejemplo el lenguaje ({a} ∪ {b}) ({a} ∪ {b} ∪{c})^*. Si suprimimos los corchetes a esta expresión queda (a ∪ b)(a ∪ b ∪ c)^*. Esta última expresión es una expresión regular y es una forma más corta y ágil de representar los lenguajes regulares. <br>

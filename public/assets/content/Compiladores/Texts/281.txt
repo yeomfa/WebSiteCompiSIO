@@ -1,0 +1,7 @@
+281: Titulo: Método construcción de un ADPND a partir de una GIC. <br><br>
+El autómata que resulta de este método siempre queda con tres estados: q_1,q_2,q_3, Sin importar de que lenguaje se trate. De los tres estados, solo q_1es estado final. <br>
+Para construir el ADPND aplique los siguientes pasos: <br>
+i.	Cree una GIC para el lenguaje cuyo símbolo inicial sea S. <br>
+ii.	Agregue las siguientes dos transiciones. <br>
+∆(q_1,ε,Z)={(q_2,SZ)}. <br>
+∆(q_2,ε,Z)={(q_3,ε)}. <br>

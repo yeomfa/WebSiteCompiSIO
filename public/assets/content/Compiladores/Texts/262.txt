@@ -1,0 +1,9 @@
+262:Título: Ejemplo. <br><br>
+Apliquemos el algoritmo para encontrar los no terminales anulables a la siguiente gramática. <br>
+S -> aS | FEB. <br>
+A-> aA | ab | C. <br>
+B -> bB | ε. <br>
+C -> aC | b. <br>
+D -> A |SSB. <br>
+E -> BF. <br>
+F -> ε. <br>

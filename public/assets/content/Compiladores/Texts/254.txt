@@ -1,0 +1,8 @@
+254. Título: Producciones imposibles de usar. <br><br>
+Imagen texto. <br>
+Consideremos la siguiente gramática. <br>
+S -> aSa | b. <br>
+B-> Ca | a. <br>
+C -> Ba | a. <br>
+Se observa que es imposible utilizar las 4 últimas producciones en una derivación. Estas producciones pueden omitirse. La gramática simplificada queda: <br>
+S -> aSa | b. <br>

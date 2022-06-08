@@ -1,0 +1,7 @@
+67. Título: Concatenación de lenguajes. <br> <br>
+Sean dos lenguajes definidos sobre un mismo alfabeto, es decir: L1 , L2 , se llama concatenación: <br>
+L1L2 = {xy| x L , y L2}.<br>
+Tiene las siguientes propiedades: <br>
+•	Es asociativa: (L1.L2).L3 = L1 (L2.L3). <br>
+•	Existe un elemento neutro: L= L =L. <br>
+Es decir, la concatenación de dos lenguajes A y B es un tercer lenguaje C, en donde van todas las concatenaciones posibles formada por una palabra de A y una palabra de B. <br>

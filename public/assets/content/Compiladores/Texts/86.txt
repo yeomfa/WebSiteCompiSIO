@@ -1,0 +1,4 @@
+86. Título: Expresiones regulares y las palabras que están en el lenguaje. <br> <br>
+a+b+c={a,b,c}.<br>
+abc={abc}.<br>
+(¡+a)bc ={bc, abc}.<br>

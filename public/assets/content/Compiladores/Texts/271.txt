@@ -1,0 +1,7 @@
+271: <br><br>
+c) Se agregan S -> ε, debido a que la gramática deriva ε: <br>
+S -> aS |bABE |D| a | bAE | bAB |bA | ε. <br>
+A - > BEDa | EDa |BDa |BEa |Da | Ea |Ba | a. <br>
+B ->ED|D |E. <br>
+E ->b. <br>
+D ->a. <br>

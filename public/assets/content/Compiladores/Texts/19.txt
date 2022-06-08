@@ -1,0 +1,8 @@
+19. Título: Lenguaje interpretados e híbridos (Ejemplo java). <br> <br>
+Imagen. <br>
+un cuadro que dice hardware <br>
+tiene pequeños cuadros que dicen (Intel, motorola). <br>
+Dentro del hay anterior cuadro que dice (sistemas operativos) <br>
+Tienes pequeños cuadros que dicen (Windows, Linux, Solaris). <br>
+Dentro del anterior cuadro hay otro que dice (Java Runtime environment(JRE)). <br>
+Tiene pequeños cuadros que dicen(API de Java, Java Virtual Machine). <br>

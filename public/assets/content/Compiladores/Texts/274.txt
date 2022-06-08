@@ -1,0 +1,6 @@
+274: Titulo: Paso 1. <br>
+S -> Aab | bB | b | F. <br>
+A -> aA |a |aBAE | aAE. <br>
+B -> bB | b | F. <br>
+E -> aaE | bB | b. <br>
+F -> aF | ab. <br>

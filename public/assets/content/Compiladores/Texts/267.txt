@@ -1,0 +1,7 @@
+267:Título: Ejemplo: <br><br>
+Aplique el algoritmo de eliminación de producciones épsilon a la siguiente gramática. <br>
+S -> aS |bABE |D. <br>
+A -> BEDa. <br>
+B ->ED. <br>
+E -> b| ε. <br>
+D -> a | ε. <br>

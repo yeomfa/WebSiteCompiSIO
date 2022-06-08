@@ -1,0 +1,6 @@
+32. Título: Traductores. <br> <br>
+Un traductor es un programa que procesa un texto fuente y genera un texto objeto. <br>
+Imagen de una T. <br>
+Al lado izquierdo tiene una LF. <br>
+Al lado derecho tiene LO. <br>
+Abajo tiene LI. <br>

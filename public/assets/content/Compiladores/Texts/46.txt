@@ -1,0 +1,3 @@
+46. Título: Organización del código de un Compilador. <br> <br>
+Rectángulo el cual dice leer -> Analís léxico. El cual tiene otro rectángulo. <br>
+Parser -> Sintáctico y semántico. <br>

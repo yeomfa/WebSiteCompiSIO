@@ -1,0 +1,11 @@
+249. Título: Ejemplo. <br><br>
+Aplique el algoritmo que elimina los no terminales que no derivan cadenas de solo terminales a la siguiente gramática. <br>
+
+S -> BS|aC|A. <br>
+
+A -> abE. <br>
+B ->DaDC |aCB | bCF. <br>
+C -> DDb | abG. <br>
+D ->aba. <br>
+E ->aA. <br>
+F->ε. <br>

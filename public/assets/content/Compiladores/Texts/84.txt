@@ -1,0 +1,4 @@
+84. Título: Expresiones regulares y las palabras que están en el lenguaje. <br> <br>
+4. ab^* = {a,ab, abb, abbb,...}. <br>
+5. (ab)^*= { λ,ab, abab, ababab,…}. <br>
+6. (a+b)^*= { λ,a,b, aa,ab, ba, bb, aaa,…} . <br>

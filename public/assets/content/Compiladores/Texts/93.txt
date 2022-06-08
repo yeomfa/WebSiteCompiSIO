@@ -1,0 +1,5 @@
+93. Título: Ejemplo de máquinas con estados. <br> <br>
+Imágenes: <br>
+Imagen de un semáforo. <br>
+Imagen de una silla de oficina. <br>
+Imagen de un vino. <br>

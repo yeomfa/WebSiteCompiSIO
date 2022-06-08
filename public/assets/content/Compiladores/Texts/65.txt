@@ -1,0 +1,4 @@
+65. Título: Unión de los lenguajes. <br> <br>
+Unión de Lenguajes: Dados L_1 〖,L〗_(2 )⊆ Σ^*, definimos la unión de dos lenguajes como: <br>
+L_1 〖∪L〗_(2 )≔{x ∈ Σ^* ┤|  [ c∈L_1]V[ c∈L_2]}, <br>
+ en otras palabras, la unión de lenguajes se realiza exactamente igual que la unión de conjuntos. <br>

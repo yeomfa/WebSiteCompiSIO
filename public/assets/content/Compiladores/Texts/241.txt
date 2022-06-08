@@ -1,0 +1,5 @@
+241. Título: Paso 1. <br><br>
+Imagen texto. <br>
+Reemplacemos los terminales de las producciones que no está forma normal de Chomsky, por no terminales. En este caso reemplazamos las aes de la primera producción, por A. La gramática, queda: <br>
+S ->ASA l a. <br>
+A ->a. <br>

@@ -1,0 +1,4 @@
+278: Titulo: Solución Ejercicio anterior. <br><br>
+S -> ABa | Aa| a| AA | AAA. <br>
+A -> ABa | Aa |a. <br>
+B -> ABa | Aa |Ab. <br>

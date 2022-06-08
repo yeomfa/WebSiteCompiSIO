@@ -1,0 +1,5 @@
+264:Título: Solución Ejemplo. <br><br>
+III.	D -> SSB. <br>
+IV.	N = {B, F, E, S, D}.<br>
+III.  No se seleccionan nuevas producciones. Esta es la condición de parada de algoritmo. <br>
+El conjunto de los no terminales anulables de la gramática dada es N ={B, F, E, S, D}.<br>

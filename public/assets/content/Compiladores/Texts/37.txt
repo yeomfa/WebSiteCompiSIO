@@ -1,0 +1,2 @@
+37. Título: Interprete Avanzando. <br> <br>
+Fuente señala a traductor el cual señala a dos partes a errores de compilación hacia abajo a código intermedio y este señala interprete puro al cual le entran datos y también pasan a errores de ejecución y si no tiene pasa a ejecutarse. <br>

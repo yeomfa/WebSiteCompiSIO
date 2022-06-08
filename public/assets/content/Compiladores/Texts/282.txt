@@ -1,0 +1,6 @@
+282: Titulo: Método construcción de un ADPND a partir de una GIC. <br><br>
+iii.	Por cada X -> w agregue la transición: <br>
+
+∆(q_2,ε,X)={(q_2,w)}. <br>
+iv.	Por cada terminal o agregue la transición: <br>
+∆(q_2,a,a)={(q_2,ε)}. <br>

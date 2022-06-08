@@ -1,0 +1,5 @@
+76. Título: Más ejercicios. <br> <br>
+1) responda verdadero o falso a las siguientes afirmaciones. <br>
+a) (ab)^4 (ab)^2 =(ab)^6. <br>
+b) ab^3 a=a^2b^3. <br>
+c) (ab)^4 = a(ba)^3b. <br>

@@ -1,0 +1,11 @@
+58. Título: Algunas definiciones básicas. <br> <br>
+Alfabeto: Conjunto finito de símbolos .Se representa por. Σ. <br>
+      Ejemplo: A1={If,the, while,begin,a,b,;=,>}. <br>
+1)	{a, b, c, …, z}.<br>
+2)	{a, b, c}.<br>
+3)	{1, 2, 3, 4}.<br>
+4)	{a, b, 5, 6, @, *}.<br>
+5)	{casa, perro, awb}.<br>
+
+Palabra o cadena: secuencia finita de letras o símbolos formadas con ese alfabeto. <br>
+También existe la palabra vacía. Se representa por lambda (λ) o épsilon (ε). <br>

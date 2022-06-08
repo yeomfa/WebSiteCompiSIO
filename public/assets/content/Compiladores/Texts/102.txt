@@ -1,0 +1,9 @@
+102. <br> <br>
+Imagen Autómata. <br>
+Estado inicial es q0 el cual tiene dos salidas una con b hacia q4 que es un estado de aceptación y este tiene una salida con a, b hacia el mismo, la segunda salida es hacia q1 con a y este tiene una salida a q2 estado de aceptación con a,b, el cual tiene dos salidas una hacia si mismo con a y la otra hacia q3 con b, q3 tiene una salida hacia el mismo con a,b. <br>
+•	En el autómata de la figura tenemos lo siguiente: <br>
+•	Los estados son q0, q3, q2, q1, q4. <br>
+•	El estado inicial el qo. <br>
+•	Los estados finales o de aceptación son q2 y 24. <br>
+•	Hay diez transiciones. <br>
+Para simplificar el diagrama, se usa una sola flecha con las dos letras en lugar de dos flechas con una letra cada una. <br>

@@ -1,0 +1,9 @@
+286: Titulo: Ejemplo: <br><br>
+ V.    Agregamos las transiciones correspondientes a cada símbolo del alfabeto. <br>
+∆(q_1,ε,Z)={(q_2,SZ)}. <br>
+∆(q_2,ε,Z)={(q_3,ε)}. <br>
+∆(q_2,ε,S)={(q_2,AB)}. <br>
+∆(q_2,ε,A)={(q_2,aAa)(q_2,b)}. <br>
+∆(q_2,ε,B)={(q_2,bBa)(q_2,ε)}. <br>
+∆(q_2,a,a)={(q_2,ε)}. <br>
+∆(q_2,b,b)={(q_2,ε)}. <br>

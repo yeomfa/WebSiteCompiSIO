@@ -1,0 +1,6 @@
+64. Título: Algunas definiciones básicas. <br> <br>
+• Lenguaje: conjunto de palabras sobre un alfabeto. <br>
+1) { aba, bca, cca } es un lenguaje sobre {a,b,c}<br>
+2) El conjunto infinito {a, aa, aaa, ... } es un lenguaje sobre {a}. <br>
+3) , el conjunto vacío es un lenguaje. <br>
+4) {a, ala, aro, ..., zurdo} , el conjunto de todas las palabras del castellano es un lenguaje sobre el alfabeto (a, b, c, ..., z}.<br>

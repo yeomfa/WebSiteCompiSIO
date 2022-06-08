@@ -1,0 +1,8 @@
+270: <br><br>
+c) Se agregan nuevas producciones según lo indicado por el
+algoritmo: <br>
+S -> aS |bABE |D| a | bAE | bAB |bA. <br>
+A - > BEDa | EDa |BDa |BEa |Da | Ea |Ba | a. <br>
+B ->ED|D |E. <br>
+E ->b. <br>
+D ->a. <br>

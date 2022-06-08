@@ -1,0 +1,10 @@
+253. Título: Solución ejercicio anterior. <br><br>
+D ={S, A, B, D, F, E, G}.<br>
+S-> Aab |B | b. <br>
+A->aA| a |aBAE. <br>
+B -> bB |F |  λ. <br>
+C -> CG | DC. <br>
+D ->  a. <br>
+E -> aaE |bB. <br>
+F -> aF |ab. <br>
+G -> F. <br>

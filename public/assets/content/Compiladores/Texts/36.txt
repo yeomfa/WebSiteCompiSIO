@@ -1,0 +1,8 @@
+
+36. Título: Interprete Puro <br> <br>
+Imagen se como está formado un intérprete puro por dentro. <br>
+Hay un cuadro dentro de el hay 5 rectángulos. <br>
+Primero(Evaluar de instrucciones) ingresa datos. <br>
+Flecha a tratamiento de errores arroja errores. <br>
+Flecha de ida y vuelta a las tablas de etiquetas. <br>
+Flecha a numero el cual señala a las instrucciones (representación interna) y este señala ala tabla de etiquetas, las instrucciones vuelven a Evaluar instrucciones y sale la ejecución. <br>

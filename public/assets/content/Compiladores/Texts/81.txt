@@ -1,0 +1,9 @@
+81. Título: Reglas de los lenguajes regulares. <br> <br>
+5. Los lenguajes que resultan de realizar una cerradura de estrella a. <br>
+un lenguaje regular es regular. <br>
+j) { ε,a,a^2,a^3 ...} que es la cerradura de estrella de c) . <br>
+k) { ε,b,b^2, b^3.… } que es la cerradura de estrella de d). <br>
+Podemos seguir uniendo, concatenando o aplicando cerradura de estrella para obtener más leguajes regulares: <br>
+i) { ε,b,b^2, …, a, ab^2, ab^3, ..., a^2b,a^2b^2,...} Que     es          la
+concatenación de j) y k). <br>
+Por lo tanto, hay infinitos lenguajes regulares sobre {a, b). <br>

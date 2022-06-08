@@ -1,0 +1,5 @@
+50. Título: Análisis semántico.<br> <br>
+•	Comprueba la validez del programa. <br>
+•	Comprobación de tipos en operaciones. <br>
+•	Ejemplo: chequeo de tipos en expresiones aritméticas. <br>
+•	Ejemplo: Chequeo de tipo y número de parámetros en la llamada a una rutina. <br>

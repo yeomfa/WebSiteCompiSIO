@@ -1,0 +1,6 @@
+54. Título: Aplicaciones de las técnicas de compilación.<br> <br>
+•	Procesadores de texto. <br>
+•	Diseño e interpretación de lenguajes. <br>
+•	Procesamiento de lenguaje natural. <br>
+•	Traducción de formatos de ficheros. <br>
+•	Reconocimiento sintáctico de formas. <br>

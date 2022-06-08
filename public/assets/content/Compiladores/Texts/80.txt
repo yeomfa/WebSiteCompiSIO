@@ -1,0 +1,11 @@
+80. Título: Reglas de los lenguajes regulares. <br> <br>
+1. Vacío y el lenguaje conformado por la palabra vacía son lenguajes regulares. <br>
+a) ∅.<br>
+b) {ε}.<br>
+2. Los lenguajes formados por una sola palabra de un solo símbolo son regulares. <br>
+c) {a} . <br>
+d) {b}.<br>
+3. Los lenguajes que resultan de unir dos lenguajes regulares son regulares. <br>
+ e) {a,b) que es la unión de c) y d) . <br>
+f) { ε, b} que es la unión de b) y d) . <br>
+g) { ε, a, b} que es la unión de b) y e). <br>

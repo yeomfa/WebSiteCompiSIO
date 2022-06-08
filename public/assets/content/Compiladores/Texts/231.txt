@@ -1,0 +1,5 @@
+231. Título: Gramáticas Regulares por la derecha. <br><br>
+Imagen texto. <br>
+Una gramática independiente del contexto es una gramática regular por la derecha si y solo si todas sus producciones son de la forma A -> w donde se cumple lo siguiente: <br>
+•	W tiene un no terminal como máximo. <br>
+•	Sí W tiene un no terminal este será el símbolo de la derecha de w. <br>

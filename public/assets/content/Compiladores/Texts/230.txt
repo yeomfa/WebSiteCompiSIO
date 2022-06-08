@@ -1,0 +1,3 @@
+230. Título: Ejemplo. <br><br>
+S -> Sabab | A | aab. <br>
+A -> Aaa | Ab | b |ε. <br>

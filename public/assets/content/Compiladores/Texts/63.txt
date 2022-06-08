@@ -1,0 +1,2 @@
+63. Título: Operación Potencia. <br> <br>
+Se llama potencia i-ésima de una palabra a la operación de concatenar consigo mismo i veces. <br>

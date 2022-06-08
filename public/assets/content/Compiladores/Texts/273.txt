@@ -1,0 +1,6 @@
+273: Titulo: Ejemplo. <br><br>
+S -> Aab | B | b. <br>
+A -> aA |a |aBAE | aAE. <br>
+B -> bB | b | F. <br>
+E -> aaE | bB | b. <br>
+F -> aF | ab. <br>

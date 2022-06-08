@@ -1,0 +1,5 @@
+245. Título: Casos de simplificación: <br><br>
+•	No terminales que no derivan cadenas de solo terminales. (Símbolos no derivables). <br>
+•	Producciones imposibles de usar. <br>
+•	No terminales anulables. <br>
+•	Eliminación de terminales épsilon. <br>

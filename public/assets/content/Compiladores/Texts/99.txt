@@ -1,0 +1,20 @@
+99. Título: Representación Función de transición. <br> <br>
+Imagen de un autómata. <br>
+Señala al estado de entrada q0 tiene dos salidas, una con b hacia el estado de aceptación q1, <br>
+La otra salida al estado de aceptación q3 con a el cual tiene dos salidas una con b hacia si mismo, y la otra hacia q2un estado normal el cual tiene una salida con (a,b) y tiene una entra de q1 con a,b. <br>
+Cuadro 3 columnas <br>
+Columna1 : δ. <br>
+q0. <br>
+q1. <br>
+q2. <br>
+q4. <br>
+columna2 :a. <br>
+q3. <br>
+q2. <br>
+q2. <br>
+q2. <br>
+Columna3 b. <br>
+q1. <br>
+q2. <br>
+q2. <br>
+q3. <br>

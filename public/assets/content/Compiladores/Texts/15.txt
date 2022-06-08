@@ -1,0 +1,8 @@
+15. Título:  Los lenguajes se clasifican en:<br> <br>
+Según grado de independencia de la máquina: <br>
+•	Lenguaje máquina. <br>
+•	Lenguaje ensamblador. <br>
+•	Lenguaje de bajo nivel. <br>
+•	Lenguaje de medio Nivel. <br>
+•	Lenguajes de alto nivel. <br>
+•	Lenguajes orientados a problemas concretos. (SQL,SPSS,Postscript, COGO). <br>

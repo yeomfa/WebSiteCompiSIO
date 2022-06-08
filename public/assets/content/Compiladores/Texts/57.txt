@@ -1,0 +1,7 @@
+57. Título: Algunas definiciones básicas. <br> <br>
+Símbolos: entidad abstracta. <br>
+      Ejemplos:  <br>
+       Letras: (a,b,c,d,e). <br>
+       Dígitos: (0,1,,,,,9). <br>
+       Caractereres (+,-*/,?.).<br>
+     Pueden estar formados por varias letras o caracteres: if, else, end, while,for. <br>

@@ -1,0 +1,2 @@
+33. Título: Ensambladores. <br> <br>
+Si el lenguaje fuente es el lenguaje ensamblador (Assembly)  y el lenguaje objeto es el lenguaje máquina. Al traductor se le llama ensamblador (Assembler). Si tiene macros son llamadas macroensambladores. <br>

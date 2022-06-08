@@ -1,0 +1,9 @@
+83. <br> <br>
+1) ∅ es una e.r y denota el lenguaje vacío <br>
+2) ε es una e.r y denota el lenguaje { ε }<br>
+3)  Para cada a ∈Σ, a es una e.r y denota el lenguaje {a} <br>
+4) Si ∝,β son dos e.r que denotan los lenguajes A y B, entonces: <br>
+	∝+ β es una e.r que denota A∪B.<br>
+	∝β es una e.r que denota A · B.<br>
+	∝* es una e.r que denota A*. <br>
+5) Orden de precedencia operadores * . + (se pueden usar paréntesis). <br>

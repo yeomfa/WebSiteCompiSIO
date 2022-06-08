@@ -1,0 +1,3 @@
+280: Titulo: Solución Ejercicio 2. <br><br>
+S -> aA | a | bA | b |Ab |SS. <br>
+A -> aAb | ab. <br>

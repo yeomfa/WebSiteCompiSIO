@@ -1,0 +1,4 @@
+85. Título: Expresiones regulares y las palabras que están en el lenguaje. <br> <br>
+7. a+b^* = {a, λ ,b, bb, bbb,...}. <br>
+8. a+!^*= {a, λ}.<br>
+9. (a+!)^*= { λ,a,, aa, aaa, aaaa,…}. <br>

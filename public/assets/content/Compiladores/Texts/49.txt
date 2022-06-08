@@ -1,0 +1,2 @@
+49. Título: Análisis sintáctico.<br> <br>
+Recibe los tokens del analizador léxico y comprueba que están ordenados conforme a la gramática. <br>

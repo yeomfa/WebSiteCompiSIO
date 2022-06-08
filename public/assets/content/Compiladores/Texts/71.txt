@@ -1,0 +1,9 @@
+71. Título: Clausura Positiva de un lenguaje. <br> <br>
+Definición (Clausura, Iteración o cierre): - La clausura de un lenguaje L se define por: <br>
+L =⋃_(i=1)^∞▒L^i∶ . <br>
+Nota: ∀ L: λ∈L^*,ya que∶{λ}=L^0 . <br>
+Propiedades de la clausura: <br>
+Cerrada: L ⊆W(Σ)=>L^+⊆W(Σ),L^*⊆W(Σ) . <br>
+L^*=L^0∪(⋃_(i=1)^∞▒L^i )=L^0∪L^+=(λ)∪L^+. <br>
+L*=L L*= L*L. <br>
+

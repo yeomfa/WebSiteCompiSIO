@@ -1,0 +1,18 @@
+103. Título: Ejemplo de transiciones en un AFD. <br> <br>
+ Un autómata finito determinista, abreviadamente AFD, acepta las palabras que correspondan a una ruta que comience en el estado inicial y termine en un estado final. El autómata rechaza cualquier otra palabra. Así, en el autómata del ejemplo, tenemos lo siguiente: <br>
+Cuadro con 3 columnas. <br>
+Columna 1 (palabras). <br>
+ab. <br>
+bab. <br>
+aabb. <br>
+a. <br>
+Columna 2 (ruta correspondiente a la palabra).v
+Q0 -> q1 -> q2. <br>
+q0 -> q4 ->q4 ->q4. <br>
+q0 ->q1-> q2-> q3->q4. <br>
+q0-> q1.v
+Columna 3 (¿La palabra es aceptada?).v
+Si. <br>
+Si. <br>
+No. <br>
+No. <br>

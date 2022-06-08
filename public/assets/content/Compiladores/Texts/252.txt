@@ -1,0 +1,9 @@
+252. Título: Ejercicio. <br><br>
+S-> Aab |B | CSa | b. <br>
+A->aA |Cb | a |aBAE. <br>
+B -> bB | aBC |F | λ. <br>
+C -> CG | DC. <br>
+D -> aCb | a. <br>
+E -> aaE |bB. <br>
+F -> aF |ab. <br>
+G -> F. <br>

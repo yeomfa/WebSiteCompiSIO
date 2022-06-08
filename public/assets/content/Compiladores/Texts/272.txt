@@ -1,0 +1,3 @@
+272: Titulo: Eliminación de las producciones unitarias. <br><br>
+Las producciones de la forma A — B dan lugar a trabajo innecesario, ya que cuando aparecen en una derivación lo único que introducen es un cambio de nombre del auxiliar. <br>
+El nuevo conjunto de producciones se forma de la manera siguiente: si (A→B)∈P y A,B ∈Σ_A, entonces esta producción se elimina del nuevo conjunto de producciones y se introducen las siguientes nuevas producciones: (A — Υ) | Υ es una forma sentencial que se obtiene a partir de B, al aplicar producciones de P. Es decir, a las producciones de A añadimos las producciones de B. <br>

@@ -1,0 +1,3 @@
+74. Título: Inverso de un lenguaje. <br> <br>
+Para hallar el inverso de un lenguaje , se invierten todas las palabras del lenguaje. <br>
+{aro, sala, acbd}’ ={ora, alas, dbca}.<br>

@@ -1,0 +1,11 @@
+55. Título: Aplicaciones de las técnicas de compilación.<br> <br>
+Comprueba los valores unitarios del lenguaje o del programa (Tokens). <br>
+•	Palabras reservadas (do, while, if). <br>
+•	Palabras no específicas (identificadores, constantes). <br>
+•	Remueve espacios en blanco, tabulaciones, saltos de línea. <br>
+•	Remueve comentarios. <br>
+•	Tokens: secuencias de caracteres que tienen un significado específico. <br>
+•	Los tokens están formados por tipo y lexema. <br>
+Ejemplo: int contador<br>
+                Lexema: contador<br>
+                tipo: identificador. <br>

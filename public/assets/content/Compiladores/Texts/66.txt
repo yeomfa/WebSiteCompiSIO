@@ -1,0 +1,6 @@
+66. Título: Unión de lenguajes. <br> <br>
+La unión de lenguajes cumple las siguientes propiedades: <br>
+•	Asociativa: (L1+L2)+L3 = L1 + (L2+L3). <br>
+•	Tiene un elemento neutro:  0 +L = L+ 0 = L .v
+•	Es conmutativa: L1+L2 = L2+L1. <br>
+•	Es idenpotente : L+L = L. <br>

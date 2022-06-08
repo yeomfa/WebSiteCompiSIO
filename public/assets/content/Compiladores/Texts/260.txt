@@ -1,0 +1,11 @@
+260. Título: No terminales anulables. <br><br>
+Sea A un no terminal, A es anulable, si y solo si, A deriva ε en uno o más pasos. <br>
+ Por ejemplo, en la gramática<br>
+S-> Aba | b. <br>
+A -> ε. <br>
+B -> A. <br>
+A y B son anulables, ya que<br>
+A => ε. <br>
+B => A => ε. <br>
+S no es un no terminal anulable. <br>
+El siguiente algoritmo determina los no terminales anulables. <br>

@@ -1,0 +1,3 @@
+256. Título: Algoritmo eliminación de símbolos no alcanzables. <br><br>
+V. Repita los pasos III y IV hasta que en el paso III no se agreguen nuevos no terminales o en el paso IV no se selecciones nuevas producciones. <br>
+VI.   Escriba la gramática simplificada. Esta gramática de conforma de todas las producciones seleccionadas en los anteriores pasos. <br>

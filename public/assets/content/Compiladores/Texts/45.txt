@@ -1,0 +1,4 @@
+45. Título: La arquitectura de un compilador. <br> <br>
+Diagrama. <br>
+Elipse(fuente) que señala a un rectángulo que tiene(análisis Léxico, Análisis Sintáctico, análisis semántico, generación de código intermedio)esto dice que es el FRONT-END. <br>
+Señala hacia abajo código intermedio y este señala a un rectángulo el cual tiene(optimización de código intermedio, generación de código objeto, optimización de código objeto) este señala a código objeto es el BACK-END. <br>

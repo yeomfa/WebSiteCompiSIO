@@ -93,6 +93,13 @@
                         <span class="title-slide"> 188 - Notación BNF </span>
                     </div>
                 </button>
+                <button id="228" class="container-slide slide">
+                    <div class="content-slide">
+                        <img src="assets/content/Compiladores/Slides/228.jpg" class="img-slide"
+                            alt="Imagen diapositiva">
+                        <span class="title-slide"> 228 - Gramáticas regulares </span>
+                    </div>
+                </button>
                 <button id="grammar" class="container-slide slide">
                     <div class="content-slide">
                         <img src="assets/content/Compiladores/grammar/Slides/1.jpg" class="img-slide"
@@ -184,7 +191,8 @@
             </div>
         </div>
         <div id="cm" class="container-msg" tabindex="0">
-            <ul id="messages"></ul>
+            <ul id="messages">
+            </ul>
         </div>
         <div id="container-connect"  class="name-input">
             <div>
@@ -201,7 +209,15 @@
     <button id="chat-ocult" class="chat-ocult" tabindex="0" title="Chat oculto">
         <i class='bx bxs-chat'></i>
     </button>
-
+    <div id="alert-chat" class="container-alert-chat" tabindex="0" title="Alerta para unirse al chat">
+        <div class="header-alert-chat">
+            <span>Recomendación</span>
+            <i id="close-alert-chat" class='bx bx-x' tabindex="0" title="Cerrar alerta para unirse al chat"></i>
+        </div>
+        <div class="main-alert-chat">
+            <span>Si vas a trabajar en equipo, te recomendamos unirte a el <span style="color: blue;">chat</span>.</span>
+        </div>
+    </div>
     <!-- JS -->
     <script src="/socket.io/socket.io.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

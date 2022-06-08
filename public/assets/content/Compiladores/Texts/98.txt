@@ -1,0 +1,10 @@
+98. Título: Jerarquía de máquinas abstractas. <br> <br>
+Definición formal de Autómata Finito<br>
+DEFINICION. <br>
+[KELLEY] un autómata finito M es una tupla de cinco elementos, <br>
+M = (Q,Σ,s,F,δ), donde: <br>
+	Q es una colección finita de estados. <br>
+	Σes un alfabeto de entrada. <br>
+	S es el estado inicial s ∈ Q. <br>
+	F es la colección de estados finales o de aceptación. <br>
+	δ:QxΣ→Q es la función de transición. <br>

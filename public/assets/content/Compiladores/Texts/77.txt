@@ -1,0 +1,9 @@
+77. Título: Y Más ejercicios. <br> <br>
+7) Sea Σ = {a,b} un alfabeto, luego a^5b^6= b^6 a^5. <br>
+ 8) Sea Σ = {a,b} un alfabeto, luego ab^2 ab^3= a^2 b^5. <br>
+9) Sea 2 Σ = {a,b} un alfabeto, luego a(ab)^3 b=a^4b^4. <br>
+ 10) Sea Σ = {a,b} un alfabeto, luego (ab)^3b = a(ba)^2b^2 . <br>
+11) Sea Σ = {a,b) un alfabeto y sea A={b^i 〖ab〗^j 〖ab〗^k ┤|i≥0∧j≥0∧k≥0} un lenguaje. Se puede de que A es el lenguaje de todas las palabras sobre Σ conformadas dos aes y cualquier número de bes. <br>
+12) Sea w=1 una palabra, luego w^n = 1 para todo n≥0. <br>
+13) Sean w x y y palabras, luego |w^i x^j y^k |^2=|w^2i x^2j y^2k |.<br>
+14) Sea w una palabra |w^(m+n) |=|w^m |.〖| w〗^n |.<br>

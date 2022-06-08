@@ -1,0 +1,11 @@
+265:Título: Eliminación de terminales épsilon. <br><br>
+La gramática. <br>
+S-> aS | aA. <br>
+A-> b | ε. <br>
+Es equivalente a la gramática. <br>
+S -> aS | ab | a. <br>
+La gramática. <br>
+S-> aS | aA. <br>
+A-> b | ε. <br>
+Es equivalente a la gramática. <br>
+S -> aS | ab | ε. <br>

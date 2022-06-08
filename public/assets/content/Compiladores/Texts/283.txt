@@ -1,0 +1,3 @@
+283: Titulo: Ejemplo: <br><br>
+Obtenga una GIC para el lenguaje dado y, a partir de ella, construya un ADPND, aplicando el método explicado en la presente sección. <br>
+{a^i 〖ba〗^i b^J a^j  | i ≥0,j ≥0}.<br>

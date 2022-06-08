@@ -1,0 +1,6 @@
+53. Título: Generación de código objeto.<br> <br>
+Genera secuencias de instrucciones en código ensamblador o máquina a partir del código intermedio. <br>
+Ejemplo: A=B+C.<br>
+•	LOAD B. <br>
+•	ADD C. <br>
+•	STORE A. <br>

@@ -1,0 +1,8 @@
+100. Título: Ejercicio. <br> <br>
+Cuadro para llenar con  4 columna pero solo una llena las demás columnas son para llenar. <br>
+Columna1. <br>
+bb. <br>
+aba. <br>
+aab. <br>
+a^100. <br>
+a^3ba^5b^5. <br>

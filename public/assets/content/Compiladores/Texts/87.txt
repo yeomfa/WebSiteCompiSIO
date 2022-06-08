@@ -1,0 +1,11 @@
+87. <br> <br>
+Los identificadores de cierto lenguaje de programación están dados por la siguiente expresión regular: <br>
+L(L∪ DL)^*. <br>
+Nota: L representa cualquier letra mayúscula o minúscula. D representa un dígito: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9. <br>
+Responda Vo F. <br>
+A5BC5BC es un identificador válido      ____.<br>
+ASB es un identificador válido               ____.<br>
+A7 es un identificador válido                _____.<br>
+A es un identificador válido                  _____.<br>
+5B es un identificador válido                _____.<br>
+

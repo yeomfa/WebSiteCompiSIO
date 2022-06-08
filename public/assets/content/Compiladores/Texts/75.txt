@@ -1,0 +1,10 @@
+75. imagen texto. <br> <br>
+1) Un párrafo de un texto de un periódico puede ser considerado como una palabra, en teoría de lenguajes formales. <br>
+2) Sea Σ = {ab,bc} un alfabeto, entonces bcababc es una palabra sobre Σ . <br>
+3) Sea Σ = ab.ba un alfabeto, entonces babaabbaabbaabab es una palabra sobre Σ. <br>
+4) Sea Σ =ab.c} un alfabeto, entonces abccabaabc es una palabra sobre Σ. <br>
+ 5) Sea un alfabeto y sea a un símbolo, si a ∈Σ entonces a ∈Σ^*. <br>
+6) Para todo alfabeto Σ, se tiene que {ε} ∈Σ^* . <br>
+7) Sea A un lenguaje sobre Σ, entonces, A ⊆Σ . <br>
+8) Sea Σ ={a,b} un alfabeto y sea A={  wax |w ∈Σ^*∧x〖∈Σ〗^* } un lenguaje, Se puede decir que A es el lenguaje de todas las palabras que contienen por lo menos una a. <br>
+ 9) Sea Σ = {a.b} un alfabeto y sea A={  wax |w ∈Σ^*} un lenguaje, entonces A es el lenguaje de todas las palabras sobre Σ terminadas en a . <br>

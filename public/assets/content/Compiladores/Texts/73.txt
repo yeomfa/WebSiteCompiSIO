@@ -1,0 +1,7 @@
+73. Título: Cardinal de un lenguaje. <br> <br>
+Es el número de palabras de ese lenguaje. <br>
+Ejemplos. <br>
+| {ab, cd, ε }|= 3. <br>
+| {ab, ε }|= 2. <br>
+| { ε }|= 1. <br>
+| { }|=| ∅ |=0. <br>

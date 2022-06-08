@@ -1,0 +1,5 @@
+62. Título: Unión o concatenación de palabras. <br> <br>
+Propiedades: <br>
+•	Es asociativa: x (yz) = (xy)z. <br>
+•	Tiene un elemento neutro: x.ʎ = ʎx=x. <br>
+•	No es conmutativa. <br>

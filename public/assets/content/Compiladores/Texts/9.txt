@@ -1,0 +1,4 @@
+9. Título: Concepto de lenguaje de programación. <br> <br>
+•	Notación formal para describir algoritmos o funciones que serán ejecutadas por un ordenador. <br>
+•	Lenguaje para comunicar instrucciones al computador. <br>
+•	La teoría de los lenguajes formales nos permite crear lenguajes que no son de programación.  Como, por ejemplo: Formatos gráficos de texto, de descripción de páginas, descripción de sonidos, descripción de texto, etc. <br>

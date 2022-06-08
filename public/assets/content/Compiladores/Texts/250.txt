@@ -1,0 +1,22 @@
+250. <br><br>
+Tiene dos párrafos. <br>
+Párrafo 1. <br>
+	D→aba . <br>
+F→ε. <br>
+	N’ = {D, F}.<br>
+	C -> DDb. <br>
+	N’ ={D, F, C}.<br>
+III)  S-> aC. <br>
+ B -> DaDC. <br>
+B -> bCF. <br>
+iv) N’ = {D, F, C, S, B}.<br>
+iii) S-> BS. <br>
+B ->aCB.<br>
+iv) N’ no cambia. Esta es la condición de parada del algoritmo. <br>
+Párrafo 2: <br>
+i.	Seleccione las producciones x > w, tales que w ∈ Σ. <br>
+ii.	Inicialice el conjunto N' con los no terminales de la izquierda del signo -> de las producciones seleccionadas en el paso i. <br>
+iii.	Seleccione las producciones x -> w no seleccionadas anteriormente, tales que w ∈(N^'∪Σ). <br>
+iv.	Agregue al conjunto N' los no terminales de la izquierda del signo -> de las producciones seleccionadas en el paso Ill. <br>
+v.	Repita los pasos iii y iv hasta que no se pueden seleccionar nuevas producciones o agregar nuevos no terminales a N'. <br>
+vi.	Escriba la gramática simplificada, la cual consta de las producciones seleccionadas en los pasos i y iii. <br>

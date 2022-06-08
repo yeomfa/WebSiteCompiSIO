@@ -1,0 +1,6 @@
+279: Titulo: Ejercicio 2. <br><br>
+S -> aAB |bBA | ABb | SS. <br>
+A -> aAa | CCa |BB. <br>
+B -> λ | bC. <br>
+C -> aCS |SCS. <br>
+D -> ab |SABC. <br>

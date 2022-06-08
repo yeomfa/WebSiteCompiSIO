@@ -1,0 +1,4 @@
+52. Título: Optimización de código intermedio.<br> <br>
+•	Permite mejorar el código intermedio. <br>
+•	Elimina código inútil. <br>
+•	Optimización de bucles. <br>

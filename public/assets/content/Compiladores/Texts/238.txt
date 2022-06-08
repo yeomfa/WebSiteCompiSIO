@@ -1,0 +1,4 @@
+238. Título: Ejemplo. <br>
+S -> aA |AB. <br>
+A -> a. <br>
+B -> AS |b. <br>

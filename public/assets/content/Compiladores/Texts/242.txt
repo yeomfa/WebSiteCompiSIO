@@ -1,0 +1,6 @@
+242. Título: Paso 2. <br><br>
+Imagen texto. <br>
+En las producciones que tengan más de 2 no terminales, reemplazamos grupos de 2 no terminales por un no terminal nuevo. En este caso, reemplazamos por ejemplo AS por B y la gramática ya queda en forma normal de Chomsky: <br>
+S -> BA|a. <br>
+B ->AS. <br>
+A ->a. <br>

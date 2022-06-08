@@ -1,0 +1,3 @@
+69. Título: Operación Potencia. <br> <br>
+Imagen texto: la potencia i-ésima de un lenguaje L consiste en el lenguaje resultante de concatenar el lenguaje consigo mismo i veces. <br>
+ L^i=LLL….L(i veces). <br>

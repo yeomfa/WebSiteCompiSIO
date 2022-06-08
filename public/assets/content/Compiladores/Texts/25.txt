@@ -1,0 +1,6 @@
+25. Título: Tipos de lenguaje.<br> <br>
+Imagen. <br>
+Tipos de lenguaje <br>
+Compilado(C, C++): convierte el código a binarios que lee el sistema operativo. <br>
+Interpretado (JS, Python, Ruby): requiere de un programa que lea las instrucciones del código en tiempo real y lo ejecute. <br>
+Intermedio(Scala, java): se compila el código fuente a un lenguaje intermedio y este ultimo se ejecuta en una máquina virtual. <br>

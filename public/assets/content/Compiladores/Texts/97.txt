@@ -1,0 +1,15 @@
+97. Título: ¿APLICACIONES MÁQUINAS ABTRACTAS?<br> <br>
+CONSTRUCCIÓN DE COMPILADORES E INTÉRPRETES. <br>
+•	Autómata Finito -Máquina Reconocedora (Lexer). <br>
+•	Autómata de Pila ( Validación de gramática ,Validación de la Semántica). (Parser). <br>
+PROCESAMIENTO DE LENGUAJE NATURAL (Lingüística Computacional). <br>
+•	Correctores ortográficos. <br>
+•	Elaboración automática de Resúmenes. <br>
+SISTEMAS EMBEBIDOS. <br>
+•	Sistema de control de lavadoras. <br>
+•	Termostatos. <br>
+•	Sistemas de control de Equipos Estéreos (Equipos de sonido). <br>
+SISTEMAS INDUSTRIALES. <br>
+•	Robot Manipuladores. <br>
+•	Cintas transportadoras. <br>
+•	Hornos Industriales. <br>

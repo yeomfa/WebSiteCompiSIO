@@ -1,0 +1,4 @@
+3. Título: los recursos. <br> <br>
+Textos impresos: <br>
+Compiladores: teoría e implementación (Ruiz Catalán, Jacinto) 2010 . <br>
+Construcción de compiladores: principios y prácticas ( ) 2004. <br>

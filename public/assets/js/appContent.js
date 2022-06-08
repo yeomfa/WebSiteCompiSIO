@@ -37,7 +37,6 @@ num_2.addEventListener('keyup', (event) => {
             document.miniSlide.src = 'assets/content/Compiladores/Slides/' + numSlide + '.jpg';
             $("#miniTitle").text(numSlide);
     }
-
 });
 
 //Acceder por selección

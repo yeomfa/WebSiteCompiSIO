@@ -1,0 +1,9 @@
+268:Título: Solución: <br><br>
+a)  Hallamos el conjunto de no terminales anulables. <br>
+i.	E -> ε. <br>
+      D -> ε. <br>
+ii.	N = {E, D}.<br>
+iii.	S -> D. <br>
+      B -> ED. <br>
+iv.	N= {E, D, S, B}.<br>
+  iii.     ‘<’fin’>’ <br>

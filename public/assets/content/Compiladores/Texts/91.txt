@@ -1,0 +1,23 @@
+91. Título: EJEMPLOS DE TOKENS. <br> <br>
+Un cuadro de 3 columna: <br>
+Fila0: Token(Columna1). <br>
+Fila1: Const. <br>
+Fila2: If. <br>
+Fila3: Relación. <br>
+Fila4: Identificador. <br>
+Fila5: Numero. <br>
+Fila6: Literal. <br>
+Fila0: Lexema (Columna2) <br>
+Fila1: Const. <br>
+Fila2: If. <br>
+Fila3: <, <=, = <>,>, =>.<br>
+Fila4: Num, edad, resultado. <br>
+Fila5: 13,0,5. <br>
+Fila6: Soy un litera<br>l.
+Fila0: Patron (Columna3) <br>
+Fila1: Const. <br>
+Fila2: If. <br>
+Fila3: <o, <=o, =o<>o,o>,o =>.<br>
+Fila4: Cadena de caracteres alfabéticos mayúsculas o minúsculas con una longitud máxima de 10. <br>
+Fila5: Valores numéricos. <br>
+Fila6: Cualquier carácter entre “y” excepto. <br>

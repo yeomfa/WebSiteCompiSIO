@@ -1,0 +1,5 @@
+229. Título: Gramáticas Regulares izquierda. <br>
+Imagen texto. <br>
+Una gramática independiente del contexto es una gramática regular por la izquierda si y solo si todas sus producciones son de la forma A -> w donde se cumple lo siguiente: <br>
+•	W tiene un no terminal como máximo. <br>
+•	Sí W tiene un no terminal este será el símbolo de la izquierda de w. <br>

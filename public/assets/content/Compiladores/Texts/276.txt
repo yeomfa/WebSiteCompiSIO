@@ -1,0 +1,4 @@
+276: Titulo: Tener en cuenta. <br>
+1.	Eliminación de símbolos no derivables. <br>
+2.	Eliminación de símbolos no alcanzables. <br>
+3.	Eliminación de producciones vacías ( Es importante ante de este paso obtener los símbolos anulables). <br>

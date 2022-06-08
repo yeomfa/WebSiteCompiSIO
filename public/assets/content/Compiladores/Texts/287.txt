@@ -1,0 +1,6 @@
+287: Titulo: Ejercicio: <br><br>
+Construya el ADPND equivalente a la siguiente gramática, aplicando el método explicado en la presente sección. <br>
+X -> X+T | T. <br>
+T -> T*F | F. <br>
+F -> a | (X). <br>
+

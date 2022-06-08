@@ -1,0 +1,5 @@
+21. Título: Lenguajes Interpretados e Intermedios (Ejemplo: Java). <br> <br>
+Hay un cuadro que se llama (JDK) que dentro de él tiene 3 cuadros más. <br>
+El primero dice (compiler) el cual esta señalado por una flecha la cual dice (source File(java files))y señala a 3 cuadro con una flecha que dice (class file). <br>
+El segundo dice( debugger). <br>
+El tercer cuadro se llama (JRE[Jvm gets environment to execute.class file) dentro del hay 2 cuadros uno dice (JVM) al cual el cuadro (compiler) señala, y el otro dice (other libraries). <br>

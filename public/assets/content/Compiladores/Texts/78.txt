@@ -1,0 +1,7 @@
+78. <br> <br>
+1) sea el lenguaje A ={ ε, ac,b} responda V o F. <br>
+	(bac)^20 ∈A^20            ___.<br>
+	b^5(ac)^5b^5 ∈ A^20       ___.<br>
+	bac ∈ A^*                 ___.<br>
+	ε∈ A^+                    ___.<br>
+	b^2 ∈ A^20                ___.<br>

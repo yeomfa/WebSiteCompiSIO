@@ -1,0 +1,5 @@
+237. Título: Forma normal de Chomsky. <br><br>
+Imagen texto. <br>
+Una GIC se encuentra en forma normal Chomsky, si y solo si todas sus producciones son de la forma A -> w cumple una de las siguientes condiciones: <br>
+•	W se conforma exactamente de dos no terminales. <br>
+•	W se conforma exactamente de un terminal. <br>

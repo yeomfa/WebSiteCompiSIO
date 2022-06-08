@@ -1,0 +1,9 @@
+41. Título: ¡Debatamos! <br> <br>
+•	¿Qué es un compilador? <br>
+•	¿Qué es un interpretador? <br>
+•	¿Qué son los procesadores de lenguajes? <br>
+•	¿Cuáles son las ventajas y desventajas de los lenguajes compilados sobre los lenguajes interpretados ? <br>
+•	¿Qué es un traductor? <br>
+•	¿Qué es un ensamblador? <br>
+•	¿Cuáles Lenguajes compilados o interpretados a utilizado? <br>
+•	¿Qué tipo de lenguaje utilizará para crear un sistema operativo? <br>

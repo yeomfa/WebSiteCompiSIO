@@ -1,0 +1,5 @@
+35. Título: Interpretes<br> <br>
+Son programas que simplemente ejecutan las instrucciones que se encuentran en el texto fuente. Ejemplo:  JAVA, Python.
+Imagen:
+Datos que señala a interpretador. 
+Rectángulo (Programa Fuente) flecha a interpretador y tiene una   flecha a Rectángulo (Resultado). <br>

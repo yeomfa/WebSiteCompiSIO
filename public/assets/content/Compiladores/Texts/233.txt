@@ -1,0 +1,2 @@
+233. Título: Aplicabilidad de las gramáticas regulares. <br><br>
+las gramáticas regulares pueden representarse los aspectos léxicos de un lenguaje de programación de computadores, pero no los aspectos gramaticales. <br>

@@ -1,0 +1,9 @@
+61. Título: Operaciones con Alfabetos.<br> <br>
+Las operaciones que podemos realizar son: <br>
+•	Unión o concatenación. <br>
+•	Intersección. <br>
+•	Diferencia. <br>
+Ejemplos. <br>
+{a, b ,c} {b, c, d}={a, b, c, d}.<br>
+{a, b ,c} {b, c, d}={b, c }.<br>
+{a, b ,c} - {b, c, d}={a}.<br>

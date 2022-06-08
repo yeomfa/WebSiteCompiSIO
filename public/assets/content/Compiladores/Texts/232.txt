@@ -1,0 +1,3 @@
+232. Título: Ejemplo. <br><br>
+S -> ababS | A | baa. <br>
+A -> aaA | nA | b |ε. <br>

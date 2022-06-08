@@ -1,0 +1,5 @@
+259. Título: La gramática simplificada queda. <br><br>
+S -> aE| bF. <br>
+B -> aB | a. <br>
+E -> aE | bE. <br>
+F -> FB |b. <br>

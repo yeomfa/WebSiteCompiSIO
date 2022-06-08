@@ -1,0 +1,3 @@
+44. Título: La arquitectura de un compilador. <br> <br>
+Programa fuente. <br>
+Señala a análisis Léxico, este señala a Análisis Sintáctico, este señala a análisis semántico, puede ingresar la tabla de símbolos o puede arrojar errores, luego señala a generación de código intermedio, luego señala optimización, luego señala a generación de código objetivo, luego va a la salida. <br>

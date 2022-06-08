@@ -1,0 +1,5 @@
+266:Título: Algoritmo Eliminación de terminales épsilon. <br><br>
+a)	Halle el conjunto de los no terminales anulables, aplicando el algoritmo de la sección anterior. <br>
+b)	Suprima las producciones épsilon de la gramática. <br>
+c)	Agregue todas las producciones que resulten de eliminar cualquier combinación de no terminales anulables a las producciones iniciales y que no sean producciones épsilon. <br>
+d)	Agregar s -> ε, si la gramática inicial deriva ε. <br>

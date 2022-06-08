@@ -1,0 +1,6 @@
+275: Titulo: Paso 2. <br>
+S -> Aab | bB | b | aF | ab<br>.
+A -> aA |a |aBAE | aAE. <br>
+B -> bB | b | aF|ab. <br>
+E -> aaE | bB | b. <br>
+F -> aF | ab. <br>

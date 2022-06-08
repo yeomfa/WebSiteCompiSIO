@@ -1,0 +1,8 @@
+18. Título: Velocidad de ejecución. br> <br>
+Imagen de un gráfico. <br>
+Velocidad de ejecución. <br>
+Tiene una línea que señala a la derecha de la barra, del lado izquierdo dice (mas lento), de el lado derecho dice: (más rápido). <br>
+Debajo hay una barra dividida en 3 partes con colores(gris, gris oscuro, negro). <br>
+Primera parte sonde inicia la barra dice(interprete de software), en el final de la primera parte que se use con el comienzo de la siguiente barra dice(Emulador Hardware). <br>
+Al final de la segunda parte de la barra e inicio de la tercera dice(Traductor a binario). <br>
+Final de la barra dice(Compilador nativo) .<br>

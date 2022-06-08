@@ -1,0 +1,2 @@
+47. Título: Tabla de símbolos. <br> <br>
+Registra los identificadores, constantes, funciones y otros objetos especificados en el programa fuente. <br>

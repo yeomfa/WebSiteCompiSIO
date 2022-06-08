@@ -1,0 +1,8 @@
+284: Titulo: Ejemplo: <br><br>
+i.	Primero se crea la GIC para el lenguaje dado. <br>
+S -> AB. <br>
+A -> aAa | b. <br>
+B -> bBa | ε. <br>
+ii.	Agreguemos las dos primeras transiciones: <br>
+     ∆(q_1,ε,Z)={(q_2,SZ)}. <br>
+     ∆(q_2,ε,Z)={(q_3,ε)}. <br>

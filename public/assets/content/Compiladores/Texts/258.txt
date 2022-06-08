@@ -1,0 +1,18 @@
+258. Título: Solución a ejercicio anterior. <br><br>
+Tiene dos párrafos. <br>
+Párrafo 1. <br>
+i.	N’ = {S}.<br>
+ii.	S -> aE| bF. <br>
+iii.	N’ = {S,E,F}.<br>
+iv.	E -> aE | bE. <br>
+      F -> FB |b. <br>
+iii.  N’ = {S, E, F, B}.<br>
+v.	B -> aB | a. <br>
+iii. N’ no cambia. Esta es la condición de parada del algoritmo. <br>
+Párrafo 2<br>
+i.	Selecciones las producciones x -> w tales que X ∈ N' y que no hayan sido seleccionadas previamente. Inicialice el conjunto N' = (S). <br>
+ii.	Selecciones las producciones x -> w tales que X ∈ N'. <br>
+iii.	Agregue a N' los no terminales a la derecha del signo - > de las producciones seleccionadas anteriormente y que no se encuentren previamente en N'. <br>
+iv.	Selecciones las producciones x -> w tales que X ∈ N' y que no hayan sido seleccionadas previamente. <br>
+v.	Repita los pasos III y IV hasta que en el paso III no se agreguen nuevos no terminales o en el paso IV no se selecciones nuevas producciones. <br>
+vi.	Escriba la gramática simplificada. Esta gramática de conforma de todas las producciones seleccionadas en los anteriores pasos. <br>

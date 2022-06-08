@@ -1,0 +1,16 @@
+40. <br> <br>
+Imagen con dos columnas. <br>
+Columnas 1. <br>
+A compiler is a program which coverts the entire source code of a programming
+language into executable machine code for a CPU. <br>
+Compiler takes large amount of time to analyze the entire source code but the overall
+execution time of the program iscomparatively faster. <br>
+Compiler generates the error message only after scanning the whole program, so debugging is comparatively hard as the error. <br>
+can be present any where in the program.Generates intermediate object code.
+Examples: C, C++, Java. <br>
+Columnas 2. <br><br>
+interpreter takes a source program and runs it line by line, translating each line as it comes to it
+Interpreter takes less amount of time to analyze the source code but the overall execution time of the program is slower. <br>
+Its Debugging is easier as it continuestranslating the program until the error is met
+No intermediate object code is generated. <br>
+Examples: Python, Perl. <br>

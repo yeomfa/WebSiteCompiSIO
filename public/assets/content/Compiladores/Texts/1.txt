@@ -1,0 +1,8 @@
+1. Título: Compiladores e Intérpretes. <br><br>
+Texto: <br>
+Daniel González . <br>
+Ingeniero de Sistemas. <br>
+Especialista en desarrollo de software. <br>
+Maestría en ingeniería de Software. <br>
+Maestría en Tecnologías de la Información. <br>
+Especialización en Sistemas de información Geográfica(C). <br>

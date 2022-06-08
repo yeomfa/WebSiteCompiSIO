@@ -1,0 +1,2 @@
+51. Título: Generación de código intermedio.<br> <br>
+Codifica el lenguaje fuente en un lenguaje intermedio entre el lenguaje objeto. <br>

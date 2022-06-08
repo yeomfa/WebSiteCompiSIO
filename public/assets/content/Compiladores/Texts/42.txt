@@ -1,0 +1,3 @@
+42. Título: La arquitectura de Software una disciplina en tendencia.<br> <br>
+Imagen: <br>
+Tiene la imagen de una ciudad la cual está conectada por los 4 lados, la internet, base de datos, intranet, y aun impresora. <br>

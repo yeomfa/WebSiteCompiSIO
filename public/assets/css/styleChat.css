@@ -15,6 +15,23 @@
     outline: 1px solid var(--colorMain);
 }
 
+.name-user {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.im {
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.act{
+    display: flex;
+    justify-content: center;
+}
+
 .title-chat{
     font-size: 20px;
     display: flex;
@@ -161,7 +178,45 @@
     right: 2rem;
     bottom: 2rem;
     cursor: pointer;
-    border: 3px solid white;
+    border: 3px solid #ffffff;
+}
+
+/**** ALERT CHAT ****/
+
+.container-alert-chat {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 25%;
+    height: 15%;
+    background: #fff;
+    border: 2px solid var(--colorMain);
+    border-radius: 10px;
+    position: fixed;
+    bottom: 2rem;
+    right: 6rem;
+}
+
+.header-alert-chat{
+    padding: 1rem;
+    padding-bottom: .5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-alert-chat span {
+    font-size: 20px;
+}
+
+.header-alert-chat i {
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.main-alert-chat {
+    padding: 1rem;
+    padding-top: 0;
 }
 
 /**** SCROLL ****/

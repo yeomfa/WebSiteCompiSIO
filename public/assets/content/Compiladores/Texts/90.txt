@@ -1,0 +1,9 @@
+90. Título: Expresiones regulares vs tokens. <br> <br>
+Numero: <br>
+Num = [0-9]^+. <br>
+Numsigno = (+|-)? Num. <br>
+Numero = Numsigno(“.” Num)? (E NumSigno)?. <br>
+Identificador : <br>
+Letra = [a-zA-Z]. <br>
+Digito=[0-9]. <br>
+Identificador = Letra( Letra | digito)^* <br>

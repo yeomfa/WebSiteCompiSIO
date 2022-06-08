@@ -1,0 +1,14 @@
+26. Título: Procesadores de lenguajes.<br> <br>
+•	Traductores. <br>
+•	Compiladores. <br>
+•	Ensambladores. <br>
+•	Enlazadores. <br>
+•	Cargadores. <br>
+•	Intérpretes. <br>
+•	Decompiladores. <br>
+•	Depuradores. <br>
+•	Analizadores de rendimiento. <br>
+•	Compresores. <br>
+•	Formateadores. <br>
+•	Editores. <br>
+•	Desensambladores. <br>

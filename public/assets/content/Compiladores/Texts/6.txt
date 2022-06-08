@@ -1,0 +1,2 @@
+6. Título: Actividad de la Semana de recuperación <br> <br>
+El estudiante se someterá a una actividad individual de programación donde se debe evidenciar dominio del lenguaje Python aplicado al compilador o intérprete construido y de acuerdo con demandas establecidas por el docente. <br>

@@ -1,0 +1,8 @@
+269:Título: Solución: <br><br>
+El conjunto de no terminales anulables de la gramática es N= (E,D,5,B). <br>
+b) Se suprimen las producciones épsilon. <br>
+S -> aS|bABE|D. <br>
+A ->BEDa. <br>
+B -> ED. <br>
+E->b. <br>
+D-> a. <br>

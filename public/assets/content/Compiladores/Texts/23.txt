@@ -1,0 +1,11 @@
+23. Título: PHP interpretador.<br> <br>
+Imagen. <br>
+Esta imagen nos explica como funciona el interpretador de PHP. <br>
+Los navegadores web señala con línea amarrilla al servidor web, el servidor señala hacia los navegadore con una línea de color cian. <br>
+Un archivo php señala con línea morada al interpretador php. <br>
+Los datos , el correo y el interpretador de php se señala con una flecha doble dirección verde. <br>
+Luego no dan la definición de los colores. <br>
+El amarrillo es petición de HTTP. <br>
+La verde interacción con otros programas. <br>
+El morado documentos PHP. <br>
+Los cian documentos HTML. <br>

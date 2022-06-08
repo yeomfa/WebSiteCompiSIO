@@ -1,0 +1,6 @@
+251. Título: Gramática simplificada. <br><br>
+S -> BS |aC. <br>
+B -> DaDC |aCB |bCF.<br>
+C -> DDb. <br>
+D -> aba. <br>
+F→ε. <br>

@@ -1,0 +1,6 @@
+68. Título: Ejemplo Concatenación. <br> <br>
+Ejemplos. <br>
+{corr, beb} *{er, o, imos}=<br>
+{correr, corro, corrimos, beber, bebo, bebimos}.<br>
+{a, bc} {ε}={a, bc}.<br>
+{ab, c}* ∅= ∅.<br>

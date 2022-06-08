@@ -1,0 +1,5 @@
+34. Título: Compiladores. <br> <br>
+Es un traductor que transforma texto fuente de lenguajes de alto nivel a lenguajes de bajo nivel se le denomina compilador.(Compiler). El tiempo de que necesita para traducir un lenguaje de alto nivel a bajo nivel se le llama tiempo compilación. (Compilation time) El tiempo que tarda en ejecutarse un programa objeto se denomina tiempo de ejecución. (Run time). <br>
+Imagen:
+Rectángulo (Programa Fuente) flecha a Compilador y tiene una   flecha a Rectángulo (Programa objeto). <br> 
+Debajo (Tiempo de compilación). <br>
